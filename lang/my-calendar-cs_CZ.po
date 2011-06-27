@@ -1,0 +1,1507 @@
+# Translation of the WordPress plugin My Calendar 1.5.0 by Joseph C Dolson.
+# Copyright (C) 2010 Joseph C Dolson
+# This file is distributed under the same license as the My Calendar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My Calendar 1.5.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/my-calendar\n"
+"POT-Creation-Date: 2010-10-05 19:19+0000\n"
+"PO-Revision-Date: 2010-12-22 13:37+0100\n"
+"Last-Translator: Jan Rybařík <rybarikj@seznam.cz>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: my-calendar-categories.php:41
+msgid "Category added successfully"
+msgstr "Kategorie byla úspěšně přidána"
+
+#: my-calendar-categories.php:43
+msgid "Category addition failed."
+msgstr "Přidání kategorie selhalo"
+
+#: my-calendar-categories.php:53
+msgid "Category deleted successfully. Categories in calendar updated."
+msgstr "Kategorie byla úspěšně smazána. Kategorie v kalendáři byly aktualizovány."
+
+#: my-calendar-categories.php:55
+msgid "Category deleted successfully. Categories in calendar not updated."
+msgstr "Kategorie byla úspěšně smazána. Kategorie v kalendáři se neaktualizovaly."
+
+#: my-calendar-categories.php:57
+msgid "Category not deleted. Categories in calendar updated."
+msgstr "Kategorie nebyla odstraněna. Kategorie v kalendáři byly aktualizovány."
+
+#: my-calendar-categories.php:66
+msgid "Category edited successfully"
+msgstr "Kategorie byla úspěšně upravena."
+
+#: my-calendar-categories.php:88
+#: my-calendar-categories.php:112
+#: my-calendar-categories.php:130
+msgid "Add Category"
+msgstr "Přidat kategorii"
+
+#: my-calendar-categories.php:90
+#: my-calendar-categories.php:112
+msgid "Edit Category"
+msgstr "Upravit kategorii"
+
+#: my-calendar-categories.php:97
+msgid "Category Editor"
+msgstr "Editor kategorií"
+
+#: my-calendar-categories.php:113
+#: my-calendar-categories.php:156
+msgid "Category Name"
+msgstr "Název kategorie"
+
+#: my-calendar-categories.php:114
+msgid "Category Color (Hex format)"
+msgstr "Barva kategorie (Hex format)"
+
+#: my-calendar-categories.php:115
+#: my-calendar-categories.php:158
+msgid "Category Icon"
+msgstr "Ikona kategorie"
+
+#: my-calendar-categories.php:130
+#: my-calendar-locations.php:121
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: my-calendar-categories.php:143
+#: my-calendar.php:179
+msgid "Manage Categories"
+msgstr "Spravovat kategorie"
+
+#: my-calendar-categories.php:155
+#: my-calendar-event-manager.php:643
+#: my-calendar-locations.php:147
+msgid "ID"
+msgstr "Id"
+
+#: my-calendar-categories.php:157
+msgid "Category Color"
+msgstr "Barva kategorie"
+
+#: my-calendar-categories.php:159
+#: my-calendar-categories.php:173
+#: my-calendar-event-manager.php:704
+#: my-calendar-locations.php:149
+#: my-calendar-locations.php:161
+msgid "Edit"
+msgstr "Editovat"
+
+#: my-calendar-categories.php:160
+#: my-calendar-categories.php:179
+#: my-calendar-event-manager.php:73
+#: my-calendar-event-manager.php:704
+#: my-calendar-locations.php:150
+#: my-calendar-locations.php:162
+msgid "Delete"
+msgstr "Smazat"
+
+#: my-calendar-categories.php:176
+#: my-calendar-event-manager.php:685
+#: my-calendar-settings.php:228
+#: my-calendar.php:652
+msgid "N/A"
+msgstr "N/A"
+
+#: my-calendar-categories.php:179
+#: my-calendar-locations.php:162
+msgid "Are you sure you want to delete this category?"
+msgstr "Opravdu chcete smazat tuto kategorii"
+
+#: my-calendar-categories.php:190
+msgid "There are no categories in the database - something has gone wrong!"
+msgstr "V databázi nejsou žádné kategorie. Někde je chyba."
+
+#: my-calendar-event-manager.php:27
+#: my-calendar-settings.php:351
+msgid "My Calendar has identified that you have the Calendar plugin by Kieran O'Shea installed. You can import those events and categories into the My Calendar database. Would you like to import these events?"
+msgstr "Můj Kalendář zjistil, že máte nainstalován plugin Calendar od Kieran O'Shea. Můžete importovat události a kategorie do Mého kalendáře. Chcete importovat tyto události?"
+
+#: my-calendar-event-manager.php:33
+#: my-calendar-settings.php:357
+msgid "Import from Calendar"
+msgstr "Importovat z kalendáře"
+
+#: my-calendar-event-manager.php:38
+msgid "Although it is possible that this import could fail to import your events correctly, it should not have any impact on your existing Calendar database. If you encounter any problems, <a href=\"http://www.joedolson.com/contact.php\">please contact me</a>!"
+msgstr "I když je možné, že tento import by nemusel importovat události správně, neměl by mít žádný dopad na stávající databáze kalendáře. Pokud narazíte na nějaké problémy, <a href=\"http://www.joedolson.com/contact.php\">Kontaktujte mě prosím </ a>!"
+
+#: my-calendar-event-manager.php:68
+msgid "Delete Event"
+msgstr "Smazat událost"
+
+#: my-calendar-event-manager.php:68
+msgid "Are you sure you want to delete this event?"
+msgstr "Opravdu chcete smazat tuto událost?"
+
+#: my-calendar-event-manager.php:81
+msgid "You do not have permission to delete that event."
+msgstr "Nemáte oprávnění smazat tuto událost."
+
+#: my-calendar-event-manager.php:96
+#: my-calendar-event-manager.php:209
+msgid "You do not have permission to approve that event."
+msgstr "Nemáte oprávnění schválit tuto událost."
+
+#: my-calendar-event-manager.php:110
+#: my-calendar-event-manager.php:223
+msgid "You do not have permission to reject that event."
+msgstr "Nemáte oprávnění zamítnout tuto událost."
+
+#: my-calendar-event-manager.php:133
+#: my-calendar-event-manager.php:154
+#: my-calendar-event-manager.php:178
+#: my-calendar-event-manager.php:193
+#: my-calendar-event-manager.php:833
+#: my-calendar-event-manager.php:838
+#: my-calendar-event-manager.php:843
+#: my-calendar-event-manager.php:855
+#: my-calendar-event-manager.php:865
+#: my-calendar-event-manager.php:873
+#: my-calendar-event-manager.php:882
+#: my-calendar-event-manager.php:890
+msgid "Error"
+msgstr "Chyba"
+
+#: my-calendar-event-manager.php:133
+msgid "I'm sorry! I couldn't add that event to the database."
+msgstr "Omlouvám se! Nemohl jsem přidat událost do databáze."
+
+#: my-calendar-event-manager.php:135
+msgid "Event added. It will now show in your calendar."
+msgstr "Událost přidána. Nyní bude zobrazena v kalendáři."
+
+#: my-calendar-event-manager.php:154
+msgid "Your event was not updated."
+msgstr "Vaše událost nebyla aktualizována."
+
+#: my-calendar-event-manager.php:158
+msgid "Nothing was changed in that update."
+msgstr "Při aktualizaci se nic nezměnilo."
+
+#: my-calendar-event-manager.php:162
+msgid "Event updated successfully"
+msgstr "Událost byla úspěšně aktualizována."
+
+#: my-calendar-event-manager.php:168
+msgid "You do not have sufficient permissions to edit that event."
+msgstr "Nemáte dostatečná oprávnění pro úpravy události."
+
+#: my-calendar-event-manager.php:178
+msgid "You can't delete an event if you haven't submitted an event id"
+msgstr "Nemůžete smazat událost pokud jste neodeslali ID události"
+
+#: my-calendar-event-manager.php:189
+msgid "Event deleted successfully"
+msgstr "Událost byla úspěšně smazána"
+
+#: my-calendar-event-manager.php:193
+msgid "Despite issuing a request to delete, the event still remains in the database. Please investigate."
+msgstr "I přes požadavek na smazání, zůstala událost stále v databázi. Prosím překontrolujte."
+
+#: my-calendar-event-manager.php:240
+#: my-calendar-event-manager.php:343
+msgid "Edit Event"
+msgstr "Upravit událost"
+
+#: my-calendar-event-manager.php:244
+#: my-calendar-event-manager.php:253
+msgid "You must provide an event id in order to edit it"
+msgstr "Musíte zadat id události, aby se událost dala editovat"
+
+#: my-calendar-event-manager.php:249
+#: my-calendar-event-manager.php:343
+msgid "Copy Event"
+msgstr "Kopírovat událost"
+
+#: my-calendar-event-manager.php:259
+msgid "Add Event"
+msgstr "Přidat událost"
+
+#: my-calendar-event-manager.php:264
+msgid "Manage Events"
+msgstr "Spravovat události"
+
+#: my-calendar-event-manager.php:315
+msgid "Sorry! That's an invalid event key."
+msgstr "Špatná klíč události."
+
+#: my-calendar-event-manager.php:320
+msgid "Sorry! We couldn't find an event with that ID."
+msgstr "Omlouváme se! Bohužel jsme nenašli událost s tímto ID."
+
+#: my-calendar-event-manager.php:343
+msgid "Add an Event"
+msgstr "Přidat událost."
+
+#: my-calendar-event-manager.php:347
+msgid "This event must be approved in order for it to appear on the calendar."
+msgstr "Před tím než se událost zobrazí v kalendáři, musí být schválena."
+
+#: my-calendar-event-manager.php:362
+msgid "Enter your Event Information"
+msgstr "Vložte informace o události."
+
+#: my-calendar-event-manager.php:364
+msgid "Event Title"
+msgstr "Název události"
+
+#: my-calendar-event-manager.php:367
+msgid "Publish"
+msgstr "Publikovat"
+
+#: my-calendar-event-manager.php:367
+msgid "You must approve this event to promote it to the calendar."
+msgstr "Musíte schválit událost pro její zobrazení v kalendáři."
+
+#: my-calendar-event-manager.php:369
+msgid "An administrator must approve your new event."
+msgstr "Administrátor musí schválit Vaši událost."
+
+#: my-calendar-event-manager.php:377
+msgid "Event Description (<abbr title=\"hypertext markup language\">HTML</abbr> allowed)"
+msgstr "Popis události (<abbr title=\"hypertext markup language\">HTML</abbr> povoleno)"
+
+#: my-calendar-event-manager.php:382
+msgid "Event Short Description (<abbr title=\"hypertext markup language\">HTML</abbr> allowed)"
+msgstr "Krátký popisek události (<abbr title=\"hypertext markup language\">HTML</abbr> povoleno)"
+
+#: my-calendar-event-manager.php:387
+msgid "Event Category"
+msgstr "Kategorie událostí"
+
+#: my-calendar-event-manager.php:412
+msgid "Event Link (Optional)"
+msgstr "Odkaz (nepovinný)"
+
+#: my-calendar-event-manager.php:412
+msgid "This link will expire when the event passes."
+msgstr "Odkaz nebude platný po uskutučnění události."
+
+#: my-calendar-event-manager.php:416
+msgid "Start Date (YYYY-MM-DD)"
+msgstr "Datum začátku (RRRR-MM-DD)"
+
+#: my-calendar-event-manager.php:419
+msgid "End Date (YYYY-MM-DD) (Optional)"
+msgstr "Datum ukončení (RRRR-MM-DD)(volitelné)"
+
+#: my-calendar-event-manager.php:422
+msgid "Time (hh:mm)"
+msgstr "Čas (hh:mm)"
+
+#: my-calendar-event-manager.php:434
+msgid "Optional, set blank if your event is an all-day event or does not happen at a specific time."
+msgstr "Volitelné, nechte prázdné, pokud je událost celodenní, nebo nenastane v určitý čas."
+
+#: my-calendar-event-manager.php:434
+msgid "Current time difference from GMT is "
+msgstr "Rozdíl místního času a GMT"
+
+#: my-calendar-event-manager.php:434
+msgid " hour(s)"
+msgstr "hodina(y)"
+
+#: my-calendar-event-manager.php:437
+msgid "End Time (hh:mm)"
+msgstr "Konec (hh:mm)"
+
+#: my-calendar-event-manager.php:447
+msgid "Optional. End times will not be displayed on events where this is not set."
+msgstr "Volitelné. Konec doby nebude zobrazen na akcích, kde to není nastaveno."
+
+#: my-calendar-event-manager.php:452
+msgid "Recurring Events"
+msgstr "Opakující se události"
+
+#: my-calendar-event-manager.php:455
+msgid "Repeats for"
+msgstr "Opakovaní"
+
+#: my-calendar-event-manager.php:456
+msgid "Units"
+msgstr "Jednotky"
+
+#: my-calendar-event-manager.php:457
+msgid "Does not recur"
+msgstr "Neopakuje se"
+
+#: my-calendar-event-manager.php:458
+#: my-calendar-event-manager.php:677
+msgid "Daily"
+msgstr "Denně"
+
+#: my-calendar-event-manager.php:459
+#: my-calendar-event-manager.php:678
+msgid "Weekly"
+msgstr "Týdně"
+
+#: my-calendar-event-manager.php:460
+msgid "Bi-weekly"
+msgstr "Ob týden"
+
+#: my-calendar-event-manager.php:461
+msgid "Date of Month (e.g., the 24th of each month)"
+msgstr "Datum měsíce (24. každého měsíce)"
+
+#: my-calendar-event-manager.php:462
+msgid "Day of Month (e.g., the 3rd Monday of each month)"
+msgstr "Den v měsíci (3. pondělí každého měsíce)"
+
+#: my-calendar-event-manager.php:463
+msgid "Annually"
+msgstr "Ročně"
+
+#: my-calendar-event-manager.php:465
+msgid "Entering 0 means forever, if a unit is selected. If the recurrence unit is left at \"Does not recur,\" the event will not reoccur."
+msgstr "Hodnota 0 znamená navždy, pokud je jednotka vybrána. Pokud je jednotka opakování ponechána na \"Neopakovat\", událost se nebude opakovat."
+
+#: my-calendar-event-manager.php:476
+msgid "Event Registration Status"
+msgstr "Status registrace události"
+
+#: my-calendar-event-manager.php:478
+msgid "Open"
+msgstr "Otevřít"
+
+#: my-calendar-event-manager.php:479
+msgid "Closed"
+msgstr "Zavřeno"
+
+#: my-calendar-event-manager.php:480
+msgid "Does not apply"
+msgstr "Neplatí"
+
+#: my-calendar-event-manager.php:483
+msgid "If this event recurs, it can only be registered for as a complete series."
+msgstr "Pokud se událost opakuje, může být registrována pro kompletní sérii "
+
+#: my-calendar-event-manager.php:493
+#: my-calendar-locations.php:81
+msgid "Event Location"
+msgstr "Místo události"
+
+#: my-calendar-event-manager.php:502
+msgid "Choose a preset location:"
+msgstr "Vybrat přednastavené umístění"
+
+#: my-calendar-event-manager.php:516
+msgid "Add recurring locations for later use."
+msgstr "Přidat opakující se umístění pro pozdější použití"
+
+#: my-calendar-event-manager.php:525
+#: my-calendar-locations.php:83
+msgid "All location fields are optional: <em>insufficient information may result in an inaccurate map</em>."
+msgstr "Všechny pole jsou volitelná: <em> nedostatečné informace mohou mít za následek nepřesné zobrazení na mapě </ em>."
+
+#: my-calendar-event-manager.php:528
+#: my-calendar-locations.php:86
+msgid "Name of Location (e.g. <em>Joe's Bar and Grill</em>)"
+msgstr "Název umístění (Např. <em>Rybajzův bar</em>)"
+
+#: my-calendar-event-manager.php:531
+#: my-calendar-locations.php:89
+msgid "Street Address"
+msgstr "Ulice"
+
+#: my-calendar-event-manager.php:534
+#: my-calendar-locations.php:92
+msgid "Street Address (2)"
+msgstr "Ulice 2"
+
+#: my-calendar-event-manager.php:537
+#: my-calendar-locations.php:95
+msgid "City"
+msgstr "Město"
+
+#: my-calendar-event-manager.php:537
+#: my-calendar-locations.php:95
+msgid "State/Province"
+msgstr "Stát / Provincie"
+
+#: my-calendar-event-manager.php:537
+#: my-calendar-locations.php:95
+msgid "Postal Code"
+msgstr "PSČ"
+
+#: my-calendar-event-manager.php:540
+#: my-calendar-locations.php:98
+msgid "Country"
+msgstr "Země"
+
+#: my-calendar-event-manager.php:543
+#: my-calendar-locations.php:101
+msgid "Initial Zoom"
+msgstr "Počáteční zoom"
+
+#: my-calendar-event-manager.php:545
+#: my-calendar-locations.php:103
+msgid "Neighborhood"
+msgstr "Sousedství"
+
+#: my-calendar-event-manager.php:546
+#: my-calendar-locations.php:104
+msgid "Small City"
+msgstr "Malé město"
+
+#: my-calendar-event-manager.php:547
+#: my-calendar-locations.php:105
+msgid "Large City"
+msgstr "Velké město"
+
+#: my-calendar-event-manager.php:548
+#: my-calendar-locations.php:106
+msgid "Greater Metro Area"
+msgstr "Větší oblast"
+
+#: my-calendar-event-manager.php:549
+#: my-calendar-locations.php:107
+msgid "State"
+msgstr "Stát"
+
+#: my-calendar-event-manager.php:550
+#: my-calendar-locations.php:108
+msgid "Region"
+msgstr "Region"
+
+#: my-calendar-event-manager.php:554
+#: my-calendar-locations.php:112
+msgid "GPS Coordinates (optional)"
+msgstr "GPS souřadnice (volittelné)"
+
+#: my-calendar-event-manager.php:556
+msgid "If you supply GPS coordinates for your location, they will be used in place of any other address information to provide your map link."
+msgstr "Pokud zadáte GPS souřadnice vaší polohy, budou použity místo dalších informací o adrese."
+
+#: my-calendar-event-manager.php:559
+#: my-calendar-locations.php:117
+msgid "Longitude"
+msgstr "Zeměpisná délka"
+
+#: my-calendar-event-manager.php:559
+#: my-calendar-locations.php:117
+msgid "Latitude"
+msgstr "Zeměpisná šířka"
+
+#: my-calendar-event-manager.php:567
+msgid "Save Event"
+msgstr "uložit událost"
+
+#: my-calendar-event-manager.php:644
+#: my-calendar-widgets.php:37
+#: my-calendar-widgets.php:122
+msgid "Title"
+msgstr "Název"
+
+#: my-calendar-event-manager.php:645
+msgid "Link"
+msgstr "Odkaz"
+
+#: my-calendar-event-manager.php:646
+#: my-calendar-locations.php:148
+msgid "Location"
+msgstr "Umístění"
+
+#: my-calendar-event-manager.php:647
+msgid "Description"
+msgstr "Popis"
+
+#: my-calendar-event-manager.php:648
+msgid "Start Date"
+msgstr "Datum začátku"
+
+#: my-calendar-event-manager.php:649
+msgid "Recurs"
+msgstr "Opakuje se"
+
+#: my-calendar-event-manager.php:650
+#: my-calendar-settings.php:204
+#: my-calendar-settings.php:213
+msgid "Author"
+msgstr "Autor"
+
+#: my-calendar-event-manager.php:651
+msgid "Category"
+msgstr "Kategorie"
+
+#: my-calendar-event-manager.php:652
+msgid "Edit / Delete"
+msgstr "Upravit / Smazat"
+
+#: my-calendar-event-manager.php:676
+msgid "Never"
+msgstr "Nikdy"
+
+#: my-calendar-event-manager.php:679
+msgid "Bi-Weekly"
+msgstr "Dvoutýdenní"
+
+#: my-calendar-event-manager.php:680
+msgid "Monthly (by date)"
+msgstr "Měsíčně (podle data)"
+
+#: my-calendar-event-manager.php:681
+msgid "Monthly (by day)"
+msgstr "Měsíčně (podle dne)"
+
+#: my-calendar-event-manager.php:682
+msgid "Yearly"
+msgstr "Ročně"
+
+#: my-calendar-event-manager.php:686
+msgid "Forever"
+msgstr "Navždy"
+
+#: my-calendar-event-manager.php:687
+msgid "Times"
+msgstr "Krát"
+
+#: my-calendar-event-manager.php:702
+msgid "Copy"
+msgstr "Kopírovat"
+
+#: my-calendar-event-manager.php:705
+msgid "Not editable."
+msgstr "Neupravitelné"
+
+#: my-calendar-event-manager.php:711
+msgid "Reject"
+msgstr "Zamítnout"
+
+#: my-calendar-event-manager.php:713
+msgid "Approve"
+msgstr "Schálit"
+
+#: my-calendar-event-manager.php:718
+msgid "Approved"
+msgstr "Schváleno"
+
+#: my-calendar-event-manager.php:720
+msgid "Rejected"
+msgstr "Zamítnuto"
+
+#: my-calendar-event-manager.php:733
+msgid "There are no events in the database!"
+msgstr "V databázi nejsou žádné události"
+
+#: my-calendar-event-manager.php:833
+msgid "Your event end date must be either after or the same as your event begin date"
+msgstr "Vaše datum ukončení události musí být buď po začátku události, nebo stejné jako datum zahájení události"
+
+#: my-calendar-event-manager.php:838
+msgid "Your date formatting is correct but one or more of your dates is invalid. Check for number of days in month and leap year related errors."
+msgstr "Vaše formátování data je správné, ale jedno nebo více z vašich dat, je neplatné. Zkontrolujte, zda počet dní v měsíci a přestupný rok neobsahuje chyby."
+
+#: my-calendar-event-manager.php:843
+msgid "Both start and end dates must be in the format YYYY-MM-DD"
+msgstr "Formát data začátku a konce musí být ve formátu RRRR-MM-DD"
+
+#: my-calendar-event-manager.php:855
+msgid "The time field must either be blank or be entered in the format hh:mm"
+msgstr "Pole Čas musí být buď prázdné, nebo musí být zadáno ve formátu hh: mm"
+
+#: my-calendar-event-manager.php:865
+msgid "The end time field must either be blank or be entered in the format hh:mm"
+msgstr "Pole Čas konce musí být buď prázdné, nebo musí být zadáno ve formátu hh: mm"
+
+#: my-calendar-event-manager.php:873
+msgid "The URL entered must either be prefixed with http:// or be completely blank"
+msgstr "Vložené URL musí obsahovat http:// nebo musí být úplně prázdné"
+
+#: my-calendar-event-manager.php:882
+msgid "The event title must be between 1 and 255 characters in length."
+msgstr "Titulek události může být dlouhý 1 - 255 znaků."
+
+#: my-calendar-event-manager.php:890
+msgid "The repetition value must be 0 unless a type of recurrence is selected."
+msgstr "Pokud je vybrán typ opakování, musí být hodnota opakování 0."
+
+#: my-calendar-help.php:6
+msgid "How to use My Calendar"
+msgstr "Jak používat Můj kalendář"
+
+#: my-calendar-help.php:11
+msgid "Shortcode Syntax"
+msgstr "Syntaxe krátkého kódu"
+
+#: my-calendar-help.php:14
+msgid "These shortcodes can be used in Posts, Pages, or in text widgets."
+msgstr "Tento krátký kód může být vložen do stránky, příspěvku nebo widgetu."
+
+#: my-calendar-help.php:18
+msgid "This basic shortcode will show the calendar on a post or page including all categories and the category key, in a traditional month-by-month format."
+msgstr "Krátký kód zobrazí kalendář na stránce nebo v příspěvku (bude zahrnovat všechny kategorie a klíč kategorie) v klasickém formátu měsíc po měsíci."
+
+#: my-calendar-help.php:21
+msgid "The shortcode supports three attributes, <code>category</code>, <code>format</code> and <code>showkey</code>. There two alternate option for <code>format</code> &mdash; <code>list</code> &mdash; which will show the calendar in a list format, skipping dates without any events, and <code>mini</code>, which will display the calendar in a form more suitable to being displayed in smaller spaces, such as the sidebar. The <code>category</code> attribute requires either the name of or ID number one of your event categories (the name is case-sensitive). This will show a calendar only including events in that category. Multiple categories can be specified by separating the category names or IDs using the pipe character: <code>|</code>. Setting <code>showkey</code> to <code>no</code> will prevent the category key from being displayed &mdash; this can be useful with single-category output."
+msgstr "Krátký kód podporuje tři atributy, <code> kategorie </ code>, <code> formát </ code> a <code> showkey </ code>. Existují dvě alternativní možnosti pro <code> formát </ code> &mdash;  <code> seznam </ code>&mdash;, které zobrazí kalendář ve formátu seznam, přeskočí data bez událostí, a <code> mini </ code> , které zobrazí kalendář v podobě vhodnější pro zobrazení v menších prostorech, jako je postranní panel. Atribut <code> kategorie </ code> vyžaduje buď jméno nebo ID jedné z Vašich kategorií (název je case-sensitive). Toto nastavení zobrazí kalendář pouze s událostmi ve vybrané kategorii. Více kategorií může být specifikováno oddělením názvů kategorií, nebo ID pomocí znaku: <code> | </ code>. Nastavení <code> showkey </ code> na <code> no </ code> zabrání zobrazení klíče kategorií - to může být užitečné při výstupu jen jedné kategorie."
+
+#: my-calendar-help.php:24
+msgid "This shortcode displays the output of the Upcoming Events widget. Without attributes, it will display using the settings in your widget; the attributes are used to override the widget settings. The <code>before</code> and <code>after</code> attributes should be numbers; the <code>type</code> attribute can be either \"event\" or \"days\", and the <code>category</code> attribute works the same way as the category attribute on the main calendar shortcode. Templates work using the template codes listed below."
+msgstr "Tento krátký kód zobrazuje výstup widgetu Nadcházející události. Bez atributů, zobrazení závisí na nastavení  widgetu, atributy jsou použity k přepsání nastavení widgetu. Atributy <code> před </ code> a <code> po atributy </ code> by měla být čísla, <code> typ </ code> atribut může být buď \"událost\" nebo \"dny\", a atribut<code> kategorie </ code> funguje stejným způsobem jako atribut kategorie v krátkém kódu hlavního kalendáře. Šablony jsou zobrazeny níže."
+
+#: my-calendar-help.php:27
+msgid "Predictably enough, this shortcode displays the output of the Today's Events widget, with two configurable attributes: category and template."
+msgstr "Krátký kód zobrazuje výstup z widgetu dnešní události se dvěma konfigurovatelné atributy: kategorie a šablony."
+
+#: my-calendar-help.php:34
+msgid "Category Icons"
+msgstr "Ikony kategorií"
+
+#: my-calendar-help.php:37
+msgid "My Calendar is designed to manage multiple calendars. The basis for these calendars are categories; you can easily setup a calendar page which includes all categories, or you can dedicate separate pages to calendars in each category. For an example, this might be useful for you in managing the tour calendars for multiple bands; event calendars for a variety of locations, etc."
+msgstr "Můj kalendář je určen pro správu více kalendářů. Základem pro tyto kalendáře jsou kategorie, můžete snadno nastavit kalendářovou stránku, která obsahuje všechny kategorie, nebo můžete vytvořit samostatné stránky s kalendáři v každé kategorii. Pro příklad, může to být pro vás užitečné při správě kalendáře pro více pásem, kalendáře akcí na různých místech, atd."
+
+#: my-calendar-help.php:40
+msgid "The pre-installed category icons may not be especially useful for your needs or design. I'm assuming that you're going to upload your own icons -- all you need to do is upload them to the plugin's icons folder, and they'll be available for immediate use, or place them in a folder at \"my-calendar-custom\" to avoid having them overwritten by upgrades."
+msgstr "Předinstalované ikony kategorií nemusí být zvláště užitečné pro vaše potřeby, nebo design. Za předpokladu, že se chystáte nahrát vlastní ikony - vše, co potřebujete udělat, je nahrát je do pluginové složky ikon, a oni budou k dispozici pro okamžité použití, nebo je umístěte do složky \"my-calendar-custom \", aby se zabránilo tomu, že budou přepsány při upgrade."
+
+#: my-calendar-help.php:40
+msgid "Your icons folder is:"
+msgstr "Složka ikon:"
+
+#: my-calendar-help.php:40
+msgid "You can alternately place icons in:"
+msgstr "Alternativně můžete uložit ikony do:"
+
+#: my-calendar-help.php:48
+msgid "Widget Templating"
+msgstr "Šablona widgetu"
+
+#: my-calendar-help.php:51
+msgid "These codes are available in calendar widgets to create your own custom calendar format."
+msgstr "Tyto kódy jsou dostupné ve widgetu kalendáře. Pomocí nich můžete vytvářet libovolný formát kalendáře."
+
+#: my-calendar-help.php:55
+msgid "Displays the name of the category the event is in."
+msgstr "Zobrazí jméno kategorie, do které událost patří."
+
+#: my-calendar-help.php:58
+msgid "Displays the title of the event."
+msgstr "Zobrazí titulek události"
+
+#: my-calendar-help.php:61
+msgid "Displays the start time for the event."
+msgstr "Zobrazí čas  začátku události"
+
+#: my-calendar-help.php:64
+msgid "Displays the date on which the event begins."
+msgstr "Zobrazí datum začátku události."
+
+#: my-calendar-help.php:67
+msgid "Displays the date on which the event ends."
+msgstr "Zobrazí datum ukončení události."
+
+#: my-calendar-help.php:70
+msgid "Displays the time at which the event ends."
+msgstr "Zobrazí čas ukončení události."
+
+#: my-calendar-help.php:73
+msgid "Displays the WordPress author who posted the event."
+msgstr "Zobrazí WP autora, který vložil událost."
+
+#: my-calendar-help.php:76
+msgid "Displays the URL provided for the event."
+msgstr "Zobrazí URL události "
+
+#: my-calendar-help.php:79
+msgid "Displays the description of the event."
+msgstr "Zobrazí popisek události"
+
+#: my-calendar-help.php:82
+msgid "Displays title of the event as a link if a URL is present, or the title alone if no URL is available."
+msgstr "Zobrazí titulek události jako odkaz, pokud je vyplněno URL, nebo jako text, pokud vyplněno není. "
+
+#: my-calendar-help.php:85
+msgid "Displays the name of the location of the event."
+msgstr "Zobrazí název umístění události."
+
+#: my-calendar-help.php:88
+msgid "Displays the first line of the site address."
+msgstr "Zobrazí první řádek adresy."
+
+#: my-calendar-help.php:91
+msgid "Displays the second line of the site address."
+msgstr "Zobrazí druhý řádek adresy."
+
+#: my-calendar-help.php:94
+msgid "Displays the city for the event."
+msgstr "Zobrazí město události."
+
+#: my-calendar-help.php:97
+msgid "Displays the state for the event."
+msgstr "Zobrazí stát události."
+
+#: my-calendar-help.php:100
+msgid "Displays the postcode for the event."
+msgstr "Zobrazí PSČ události."
+
+#: my-calendar-help.php:103
+msgid "Displays the country for the event location."
+msgstr "Zobrazí zemi události."
+
+#: my-calendar-help.php:106
+msgid "Displays the event address in <a href=\"http://microformats.org/wiki/hcard\">hcard</a> format."
+msgstr "Zobrazí adresu události ve formátu <a href=\"http://microformats.org/wiki/hcard\">hcard</a>."
+
+#: my-calendar-help.php:109
+msgid "Displays a link to a Google Map of the event, if sufficient address information is available. If not, will be empty."
+msgstr "Zobrazí odkaz na Google Mapy, pokud jsou dostupné dostatečné informace o adrese. Pokud ne, bude prázdné."
+
+#: my-calendar-help.php:112
+msgid "Displays text indicating whether registration for the event is currently open or closed; displays nothing if that choice is selected in the event."
+msgstr "Zobrazí textové oznámení, zda je registrace události otevřena nebo uzavřena; nezobrazí nic pokud je volba vybrána v události."
+
+#: my-calendar-help.php:115
+msgid "Displays the short version of the event description."
+msgstr "Zobrazí krátkou verzi popisku události."
+
+#: my-calendar-help.php:118
+msgid "Displays the current status of the event: either \"Published\" or \"Reserved\" - primary used in email templates."
+msgstr "Zobrazí aktuální stav události: buď  \"Publikováno\" nebo \"Rezervováno\" - primárně použité v emailových šablonách."
+
+#: my-calendar-locations.php:22
+msgid "Location added successfully"
+msgstr "Umístění bylo úspěšně přidáno"
+
+#: my-calendar-locations.php:24
+msgid "Location could not be added to database"
+msgstr "umístění nemohlo být přidáno do databáze"
+
+#: my-calendar-locations.php:30
+msgid "Location deleted successfully"
+msgstr "Umístění bylo úspěšně odstraněno"
+
+#: my-calendar-locations.php:32
+msgid "Location could not be deleted"
+msgstr "Umístění nemohlo být smazáno."
+
+#: my-calendar-locations.php:43
+msgid "Location could not be edited."
+msgstr "Umístění nemohlo být upraveno."
+
+#: my-calendar-locations.php:45
+msgid "Location was not changed."
+msgstr "Umístění nebylo změněno"
+
+#: my-calendar-locations.php:47
+msgid "Location edited successfully"
+msgstr "Umístění bylo úspěšně aktualizováno."
+
+#: my-calendar-locations.php:59
+msgid "Add New Location"
+msgstr "Přidat nové umístění"
+
+#: my-calendar-locations.php:61
+msgid "Edit Location"
+msgstr "upravit umístění"
+
+#: my-calendar-locations.php:66
+msgid "Location Editor"
+msgstr "Editor umístění"
+
+#: my-calendar-locations.php:114
+msgid "If you supply GPS coordinates for your location, they will be used in place of any other address information to pinpoint your location."
+msgstr "Pokud zadáte GPS souřadnice vaší polohy, budou použity místo jakýchkoliv dalších informací pro určení polohy vašeho umístění."
+
+#: my-calendar-locations.php:121
+msgid "Add Location"
+msgstr "Přidat umístění"
+
+#: my-calendar-locations.php:135
+#: my-calendar.php:180
+msgid "Manage Locations"
+msgstr "Spravovat umístění"
+
+#: my-calendar-locations.php:170
+msgid "There are no locations in the database yet!"
+msgstr "V databázi nejsou žádná umístění."
+
+#: my-calendar-locations.php:174
+msgid "Please note: editing or deleting locations stored for re-use will have no effect on any event previously scheduled at that location. The location database exists purely as a shorthand method to enter frequently used locations into event records."
+msgstr "Poznámka: úprava nebo smazání umístění nebude mít vliv na žádnou událost, která byla plánována na toto umístění. Databáze umístění existuje čistě jako zkrácená metoda pro ukládání nejčastěji používaných umístění."
+
+#: my-calendar-settings.php:67
+msgid "Categories imported successfully."
+msgstr "Kategorie byly úspěšně importovány"
+
+#: my-calendar-settings.php:69
+msgid "Categories not imported."
+msgstr "Kategorie nebyly importovány"
+
+#: my-calendar-settings.php:72
+msgid "Events imported successfully."
+msgstr "Události byly úspěšně importovány."
+
+#: my-calendar-settings.php:74
+msgid "Events not imported."
+msgstr "Události nebyly importovány"
+
+#: my-calendar-settings.php:165
+msgid "Settings saved"
+msgstr "Nastavení uloženo"
+
+#: my-calendar-settings.php:188
+msgid "My Calendar Options"
+msgstr "Možnosti Mého kalendáře"
+
+#: my-calendar-settings.php:195
+msgid "Calendar Settings"
+msgstr "Nastavení kalendáře"
+
+#: my-calendar-settings.php:199
+msgid "Calendar Options: Management"
+msgstr "Nastavení kalendáře: Management"
+
+#: my-calendar-settings.php:201
+msgid "Choose the lowest user group that may create events"
+msgstr "Zvolte nejnižší uživatelskou úroveň pro vytváření událostí"
+
+#: my-calendar-settings.php:202
+#: my-calendar-settings.php:211
+msgid "Subscriber"
+msgstr "Návštěvník"
+
+#: my-calendar-settings.php:203
+#: my-calendar-settings.php:212
+msgid "Contributor"
+msgstr "Spolupracovník"
+
+#: my-calendar-settings.php:205
+#: my-calendar-settings.php:214
+msgid "Editor"
+msgstr "Šéfredaktor"
+
+#: my-calendar-settings.php:206
+#: my-calendar-settings.php:215
+msgid "Administrator"
+msgstr "Administrator"
+
+#: my-calendar-settings.php:210
+msgid "Choose the lowest user group that may approve events"
+msgstr "Zvolte nejnižší uživatelskou úroveň pro schvalování událostí"
+
+#: my-calendar-settings.php:219
+msgid "Enable approval options."
+msgstr "Povolit schvalovací nastavení"
+
+#: my-calendar-settings.php:223
+msgid "Calendar Options: Customize Text"
+msgstr "Možnosti kalendáře: Upravit text"
+
+#: my-calendar-settings.php:225
+msgid "Show Heading for Calendar"
+msgstr "Zobrazit hlavičku kalendáře"
+
+#: my-calendar-settings.php:228
+msgid "Label for events without a specific time"
+msgstr "Značka pro události bez specifického času"
+
+#: my-calendar-settings.php:231
+msgid "Previous events link text"
+msgstr "Text odkazu předchozí událost"
+
+#: my-calendar-settings.php:231
+#: my-calendar.php:514
+msgid "Previous Events"
+msgstr "Předchozí"
+
+#: my-calendar-settings.php:234
+msgid "Next events link text"
+msgstr "Text odkazu následující událost"
+
+#: my-calendar-settings.php:234
+msgid "Next Events"
+msgstr "Následující"
+
+#: my-calendar-settings.php:237
+msgid "Text when events are open"
+msgstr "Text u otevžených událostí"
+
+#: my-calendar-settings.php:237
+msgid "Registration is open"
+msgstr "Registrace je otevřená"
+
+#: my-calendar-settings.php:240
+msgid "Text when events are closed"
+msgstr "Text při uzavřené události"
+
+#: my-calendar-settings.php:240
+msgid "Registration is closed"
+msgstr "Registrace je uzavřena"
+
+#: my-calendar-settings.php:243
+msgid "Additional caption text"
+msgstr "Text dodatkového titulku"
+
+#: my-calendar-settings.php:243
+msgid "The calendar caption is the text containing the displayed month and year in either list or calendar format. This text will be displayed following that existing text."
+msgstr "Titulek kalendáře je text obsahující zobrazený měsíc a rok v kalendářovém formátu. Tento text bude následovat existující text."
+
+#: my-calendar-settings.php:247
+msgid "Calendar Options: Output"
+msgstr "Možnosti kalendáře: Výstup"
+
+#: my-calendar-settings.php:249
+msgid "In list mode, show how many months of events at a time:"
+msgstr "Seznamové zobrazení: zobrazit počet měsíců události"
+
+#: my-calendar-settings.php:252
+msgid "Date format in list mode"
+msgstr "Format data v módu seznam"
+
+#: my-calendar-settings.php:253
+msgid "Date format uses the same syntax as the <a href=\"http://php.net/date\">PHP <code>date()</code> function</a>. Save options to update sample output."
+msgstr "Format data používá stejnou syntaxi jako <a href=\"http://php.net/date\">PHP <code>date()</code> funkce</a>. Uložte možnosti pro aktualizování ukázky."
+
+#: my-calendar-settings.php:256
+msgid "Do you want to display the author name on events?"
+msgstr "Chcete zobrazit jméno autora v události?"
+
+#: my-calendar-settings.php:259
+msgid "Display a jumpbox for changing month and year quickly?"
+msgstr "Zobrazit rozbalovací box pro rychlou změnu měsíce a roku?"
+
+#: my-calendar-settings.php:262
+msgid "Hide category icons in output"
+msgstr "Schovat ikony kategorií na výstupu"
+
+#: my-calendar-settings.php:265
+msgid "Show Link to Google Map (when sufficient address information is available.)"
+msgstr "Zobrazit odkaz na Google mapy (pokud je zadána dostatečně přesná adresa)"
+
+#: my-calendar-settings.php:268
+msgid "Show Event Address in Details"
+msgstr "Zobrazit adresu události v detailech "
+
+#: my-calendar-settings.php:271
+msgid "Show short description field on calendar."
+msgstr "Zobrazit pole krátký popisek v kalendáři"
+
+#: my-calendar-settings.php:274
+msgid "Show full description field on calendar."
+msgstr "Zobrazit pole dlouhý popisek v kalendáři"
+
+#: my-calendar-settings.php:277
+msgid "Links associated with events will automatically expire after the event has passed."
+msgstr "Odkazy spojené s událostí automaticky vyprší po uplynutí události."
+
+#: my-calendar-settings.php:280
+msgid "Show current availability status of events."
+msgstr "Zobrazit dostupné statusy události "
+
+#: my-calendar-settings.php:283
+msgid "If a recurring event is scheduled for a date which doesn't exist (such as the 5th Wednesday in February), move it back one week."
+msgstr "Pokud se opakující událost vztahuje k datu, které neexistuje (5. středa v únoru), bude přesunuta o týden zpět."
+
+#: my-calendar-settings.php:284
+msgid "If this option is unchecked, recurring events which fall on dates which don't exist will simply not be shown on the calendar."
+msgstr "Pokud je tato možnost nezaškrtnutá, opakující se události vztahující se na neexistující data nebudou zobrazeny v kalendáři. "
+
+#: my-calendar-settings.php:288
+msgid "Calendar Options: Input"
+msgstr "Možnosti kalendáře: Vstup"
+
+#: my-calendar-settings.php:291
+msgid "Show Event Location Dropdown Menu"
+msgstr "Zobrazit rozbalovací menu pro umístění události"
+
+#: my-calendar-settings.php:291
+msgid "Show Event Short Description field"
+msgstr "Zobrazit pole krátký popisek události"
+
+#: my-calendar-settings.php:291
+msgid "Show Event Description Field"
+msgstr "zobrazit pole popisek události"
+
+#: my-calendar-settings.php:291
+msgid "Show Event Category field"
+msgstr "Zobrazit pole kategorie"
+
+#: my-calendar-settings.php:291
+msgid "Show Event Link field"
+msgstr "Zobrazit pole odkaz"
+
+#: my-calendar-settings.php:291
+msgid "Show Event Recurrence Options"
+msgstr "Zobrazit možnosti "
+
+#: my-calendar-settings.php:291
+msgid "Show event registration options"
+msgstr "Zobrazit možnosti registrace události"
+
+#: my-calendar-settings.php:291
+msgid "Show event location fields"
+msgstr "Zobrazit pole umístění události"
+
+#: my-calendar-settings.php:300
+msgid "Administrators see all input options"
+msgstr "Administrátoři vidí všechny vstupní nastavení"
+
+#: my-calendar-settings.php:304
+msgid "Calendar Options: Style"
+msgstr "Možnosti kalendáře: Styly"
+
+#: my-calendar-settings.php:306
+msgid "Default usage of category colors."
+msgstr "Výchoz použití barev kategorie "
+
+#: my-calendar-settings.php:307
+msgid "Apply category colors to event titles as a font color."
+msgstr "Použít barvy kategorie na titulky událostí jako barvu fontu."
+
+#: my-calendar-settings.php:308
+msgid "Apply category colors to event titles as a background color."
+msgstr "Použít barvy kategorie na titulky událostí jako barva pozadí."
+
+#: my-calendar-settings.php:313
+msgid "Calendar Options: Email Notifications"
+msgstr "Možnosti kalendáře: Emailové oznamování"
+
+#: my-calendar-settings.php:317
+msgid "Send Email Notifications when new events are scheduled or reserved."
+msgstr "Zaslat oznámení emailem v případě, že je událost plánovaná nebo zarezervovaná."
+
+#: my-calendar-settings.php:323
+msgid "Notification messages are sent to: "
+msgstr "Oznamovací zprávy byly odeslány do:"
+
+#: my-calendar-settings.php:327
+msgid "Email subject"
+msgstr "Předmět emailu"
+
+#: my-calendar-settings.php:327
+msgid "New event Added"
+msgstr "Nová událost přidána"
+
+#: my-calendar-settings.php:331
+msgid "Message Body"
+msgstr "Tělo zprávy"
+
+#: my-calendar-settings.php:331
+msgid "New Event:"
+msgstr "Nová událost"
+
+#: my-calendar-settings.php:332
+msgid "Shortcode Help"
+msgstr "Nápověda pro krátký kód"
+
+#: my-calendar-settings.php:332
+msgid "All template shortcodes are available."
+msgstr "Všechny krátké kódy šablony jsou dostupné."
+
+#: my-calendar-settings.php:341
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: my-calendar-styles.php:46
+msgid "Style Settings saved"
+msgstr "Nastavení stylu bylo uloženo"
+
+#: my-calendar-styles.php:70
+msgid "My Calendar Styles"
+msgstr "Můj Kalendář styly"
+
+#: my-calendar-styles.php:74
+msgid "Calendar Style Settings"
+msgstr "Nastavení stylů kalendáře"
+
+#: my-calendar-styles.php:78
+msgid "Show CSS &amp; JavaScript only on these pages (comma separated page IDs)"
+msgstr "Zobrazit CSS &amp; JavaScript pouze na těchto stránkách (čárkou oddělená ID)"
+
+#: my-calendar-styles.php:81
+msgid "CSS Style Options"
+msgstr "Možnosti CSS"
+
+#: my-calendar-styles.php:83
+msgid "Reset the My Calendar stylesheet to the default"
+msgstr "Vrátit styly Mého kalendáře na původní hodnoty"
+
+#: my-calendar-styles.php:83
+msgid "Disable My Calendar Stylesheet"
+msgstr "Zakázat šablonu stylů pro Můj kalendář"
+
+#: my-calendar-styles.php:86
+msgid "Edit the stylesheet for My Calendar"
+msgstr "Editovat šablonu stylů pro Můj kalendář "
+
+#: my-calendar-styles.php:89
+#: my-calendar-styles.php:101
+#: my-calendar-styles.php:113
+#: my-calendar-styles.php:125
+msgid "Save"
+msgstr "Uložit"
+
+#: my-calendar-styles.php:93
+msgid "Calendar Behaviors: Calendar View"
+msgstr "Chování kalendáře: Zobrazení kalendáře"
+
+#: my-calendar-styles.php:95
+msgid "Reset the My Calendar Calendar Javascript"
+msgstr "Resetovat Javascript kalendáře"
+
+#: my-calendar-styles.php:95
+msgid "Disable Calendar Javascript Effects"
+msgstr "Zakázat Javascriptové efekty kalendáře"
+
+#: my-calendar-styles.php:98
+msgid "Edit the jQuery scripts for My Calendar in Calendar format"
+msgstr "Upravit jQuery skripty pro Kalendářový mód"
+
+#: my-calendar-styles.php:105
+msgid "Calendar Behaviors: List View"
+msgstr "Chování kalendáře: Seznamové zobrazení"
+
+#: my-calendar-styles.php:107
+msgid "Reset the My Calendar List Javascript"
+msgstr "Resetovat Javascript pro seznam"
+
+#: my-calendar-styles.php:107
+msgid "Disable List Javascript Effects"
+msgstr "Zakázat Javascriptové efekty v seznamu"
+
+#: my-calendar-styles.php:110
+msgid "Edit the jQuery scripts for My Calendar in List format"
+msgstr "Upravit jQuery skripty pro seznam"
+
+#: my-calendar-styles.php:117
+msgid "Calendar Behaviors: Mini Calendar View"
+msgstr "Chovaní kalendáře: Mini zobrazení"
+
+#: my-calendar-styles.php:119
+msgid "Reset the My Calendar Mini Format Javascript"
+msgstr "Resetovat Javascript  pro Můj kalendář Mini "
+
+#: my-calendar-styles.php:119
+msgid "Disable Mini Javascript Effects"
+msgstr "Zakázat javascriptové efekty - Mini"
+
+#: my-calendar-styles.php:122
+msgid "Edit the jQuery scripts for My Calendar in Mini Calendar format"
+msgstr "Upravit jQuery skripty pro kalendář v módu Mini"
+
+#: my-calendar-upgrade-db.php:19
+msgid "The My Calendar database needs to be updated."
+msgstr "Databáze mého kalendáře musí být aktualizována "
+
+#: my-calendar-upgrade-db.php:20
+#: my-calendar-upgrade-db.php:34
+msgid "Update now"
+msgstr "Aktualizovat"
+
+#: my-calendar-upgrade-db.php:33
+msgid "You haven't entered any events, so My Calendar can't tell whether your database is up to date. If you can't add events, upgrade your database!"
+msgstr "Nevytvořili jste žádné události, proto Můj kalendář nemůže zjistit, zda je databáze aktuální. Jestliže nemůžete přidávat události, aktualizujete databázi."
+
+#: my-calendar-upgrade-db.php:44
+msgid "My Calendar Database is updated."
+msgstr "Databáze Mého kalendáře byla aktualizována"
+
+#: my-calendar-widgets.php:11
+#: my-calendar-widgets.php:51
+#: my-calendar-widgets.php:52
+msgid "Today's Events"
+msgstr "Dnešní události"
+
+#: my-calendar-widgets.php:41
+#: my-calendar-widgets.php:126
+msgid "Template"
+msgstr "Šablona"
+
+#: my-calendar-widgets.php:45
+msgid "Show this text if there are no events today:"
+msgstr "Zobrazit tento text, pokud zde nejsou žádné dnešní události"
+
+#: my-calendar-widgets.php:65
+#: my-calendar-widgets.php:152
+#: my-calendar-widgets.php:153
+msgid "Upcoming Events"
+msgstr "Nadcházející události"
+
+#: my-calendar-widgets.php:130
+msgid "Widget Options"
+msgstr "Možnosti widgetu"
+
+#: my-calendar-widgets.php:132
+msgid "Display upcoming events by:"
+msgstr "Zobrazit nadcházející události podle:"
+
+#: my-calendar-widgets.php:133
+msgid "Events (e.g. 2 past, 3 future)"
+msgstr "Události"
+
+#: my-calendar-widgets.php:134
+msgid "Dates (e.g. 4 days past, 5 forward)"
+msgstr "Data (např. 4 dny uplynulé, 5 dní budoucích)"
+
+#: my-calendar-widgets.php:138
+msgid "events into the future;"
+msgstr "události v budoucnosti;"
+
+#: my-calendar-widgets.php:139
+msgid "events from the past"
+msgstr "události z minulosti;"
+
+#: my-calendar-widgets.php:142
+msgid "days into the future;"
+msgstr "dny v budoucnosti"
+
+#: my-calendar-widgets.php:143
+msgid "days from the past"
+msgstr "dny z minulosti"
+
+#: my-calendar-widgets.php:146
+msgid "Show only this category:"
+msgstr "Zobrazit pouze tuto kategorii"
+
+#: my-calendar-widgets.php:285
+msgid "There are no events currently scheduled."
+msgstr "Na rozvrhu momentálně nejsou žádné události."
+
+#: my-calendar-widgets.php:470
+msgid "Published"
+msgstr "Publikováno"
+
+#: my-calendar-widgets.php:472
+msgid "Reserved"
+msgstr "Rezervováno"
+
+#: my-calendar.php:56
+#: my-calendar.php:181
+msgid "Settings"
+msgstr "Nastavení"
+
+#: my-calendar.php:57
+#: my-calendar.php:183
+msgid "Help"
+msgstr "Nápověda"
+
+#: my-calendar.php:81
+msgid "Buy the Beginner's Guide"
+msgstr "Koupit příručku"
+
+#: my-calendar.php:82
+msgid "Get Support"
+msgstr "Technická podpora"
+
+#: my-calendar.php:83
+#: my-calendar.php:183
+msgid "My Calendar Help"
+msgstr "Nápověda"
+
+#: my-calendar.php:84
+msgid "Make a Donation"
+msgstr "Přispějte"
+
+#. #-#-#-#-#  plugin.pot (My Calendar 1.5.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: my-calendar.php:172
+msgid "My Calendar"
+msgstr "Můj kalendář"
+
+#: my-calendar.php:175
+msgid "Add/Edit Events"
+msgstr "Přidat / upravit událost"
+
+#: my-calendar.php:182
+msgid "Style Editor"
+msgstr "Editor stylů"
+
+#: my-calendar.php:633
+msgid "Event Details"
+msgstr "Detaily události"
+
+#: my-calendar.php:642
+msgid "Close"
+msgstr "Zavřít"
+
+#: my-calendar.php:652
+msgid "Not Applicable"
+msgstr "Není k dispozici"
+
+#: my-calendar.php:664
+msgid "Posted by"
+msgstr "Vytvořeno"
+
+#: my-calendar.php:710
+msgid "This class is part of a series. You must register for the first event in this series to attend."
+msgstr "Třída je součástí série. Pro účast se musíte registrovat k první události. "
+
+#: my-calendar.php:1340
+msgid "Month"
+msgstr "Měsíc"
+
+#: my-calendar.php:1341
+#: my-calendar.php:1427
+msgid "January"
+msgstr "Leden"
+
+#: my-calendar.php:1342
+#: my-calendar.php:1427
+msgid "February"
+msgstr "Únor"
+
+#: my-calendar.php:1343
+#: my-calendar.php:1427
+msgid "March"
+msgstr "Březen"
+
+#: my-calendar.php:1344
+#: my-calendar.php:1427
+msgid "April"
+msgstr "Duben"
+
+#: my-calendar.php:1345
+#: my-calendar.php:1427
+msgid "May"
+msgstr "Květen"
+
+#: my-calendar.php:1346
+#: my-calendar.php:1427
+msgid "June"
+msgstr "Červen"
+
+#: my-calendar.php:1347
+#: my-calendar.php:1427
+msgid "July"
+msgstr "Červenec"
+
+#: my-calendar.php:1348
+#: my-calendar.php:1427
+msgid "August"
+msgstr "Srpen"
+
+#: my-calendar.php:1349
+#: my-calendar.php:1427
+msgid "September"
+msgstr "Září"
+
+#: my-calendar.php:1350
+#: my-calendar.php:1427
+msgid "October"
+msgstr "Říjen"
+
+#: my-calendar.php:1351
+#: my-calendar.php:1427
+msgid "November"
+msgstr "Listopad"
+
+#: my-calendar.php:1352
+#: my-calendar.php:1427
+msgid "December"
+msgstr "Prosinec"
+
+#: my-calendar.php:1354
+msgid "Year"
+msgstr "Rok"
+
+#: my-calendar.php:1379
+msgid "Go"
+msgstr "Jdi"
+
+#: my-calendar.php:1401
+msgid "<abbr title=\"Sunday\">Sun</abbr>"
+msgstr "<abbr title=\"Neděle\">Ne</abbr>"
+
+#: my-calendar.php:1402
+msgid "<abbr title=\"Monday\">Mon</abbr>"
+msgstr "<abbr title=\"Pondělí\">Pon</abbr>"
+
+#: my-calendar.php:1403
+msgid "<abbr title=\"Tuesday\">Tues</abbr>"
+msgstr "<abbr title=\"Úterý\">Úte</abbr>"
+
+#: my-calendar.php:1404
+msgid "<abbr title=\"Wednesday\">Wed</abbr>"
+msgstr "<abbr title=\"Středa\">Stř</abbr>"
+
+#: my-calendar.php:1405
+msgid "<abbr title=\"Thursday\">Thur</abbr>"
+msgstr "<abbr title=\"Čtvrtek\">Čtv</abbr>"
+
+#: my-calendar.php:1406
+msgid "<abbr title=\"Friday\">Fri</abbr>"
+msgstr "<abbr title=\"Pátek\">Pát</abbr>"
+
+#: my-calendar.php:1407
+msgid "<abbr title=\"Saturday\">Sat</abbr>"
+msgstr "<abbr title=\"Sobota\">Sob</abbr>"
+
+#: my-calendar.php:1412
+msgid "<abbr title=\"Sunday\">S</abbr>"
+msgstr "<abbr title=\"Neděle\">N</abbr>"
+
+#: my-calendar.php:1413
+msgid "<abbr title=\"Monday\">M</abbr>"
+msgstr "<abbr title=\"Pondělí\">P</abbr>"
+
+#: my-calendar.php:1414
+msgid "<abbr title=\"Tuesday\">T</abbr>"
+msgstr "<abbr title=\"Úterý\">Ú</abbr>"
+
+#: my-calendar.php:1415
+msgid "<abbr title=\"Wednesday\">W</abbr>"
+msgstr "<abbr title=\"Středa\">S</abbr>"
+
+#: my-calendar.php:1416
+msgid "<abbr title=\"Thursday\">T</abbr>"
+msgstr "<abbr title=\"Čtvrtek\">Č</abbr>"
+
+#: my-calendar.php:1417
+msgid "<abbr title=\"Friday\">F</abbr>"
+msgstr "<abbr title=\"Pátek\">P</abbr>"
+
+#: my-calendar.php:1418
+msgid "<abbr title=\"Saturday\">S</abbr>"
+msgstr "<abbr title=\"Sobota\">S</abbr>"
+
+#: my-calendar.php:1464
+msgid "and"
+msgstr "a"
+
+#: my-calendar.php:1493
+#: my-calendar.php:1497
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: my-calendar.php:1500
+msgid "Events in"
+msgstr "Události v"
+
+#: my-calendar.php:1597
+msgid "There are no events scheduled during this period."
+msgstr "Na toto období nejsou naplánovány žádné události."
+
+#: my-calendar.php:1607
+msgid "Category Key"
+msgstr "Klíč kategorie"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.joedolson.com/articles/my-calendar/"
+msgstr "http://www.joedolson.com/articles/my-calendar/"
+
+#. Description of the plugin/theme
+msgid "Accessible WordPress event calendar plugin. Show events from multiple calendars on pages, in posts, or in widgets."
+msgstr "Přístupný kalendář pro Wordpress. Zobrazuje události z mnoha kalendářů na stránkách, v příspěvcích nebo ve widgetech."
+
+#. Author of the plugin/theme
+msgid "Joseph C Dolson"
+msgstr "Joseph C Dolson"
+
+#. Author URI of the plugin/theme
+msgid "http://www.joedolson.com"
+msgstr "http://www.joedolson.com"
+

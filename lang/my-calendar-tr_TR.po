@@ -1,0 +1,1974 @@
+# Copyright (C) 2010 My Calendar
+# This file is distributed under the same license as the My Calendar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: My Calendar 1.8.0 TR\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/my-calendar\n"
+"POT-Creation-Date: 2011-04-05 19:02:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-04-12 15:26+0200\n"
+"Last-Translator: Mehmet Kocali <membus@gmail.com>\n"
+"Language-Team: Mehmet Kocali <membus@gmail.com>\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: my-calendar-styles.php:51
+msgid "The stylesheet has been updated."
+msgstr "Stil dosyası güncellenmiştir."
+
+#: my-calendar-styles.php:51
+msgid "Write Error! Please verify write permissions on the style file."
+msgstr "Yazma hatası! Lütfen stil dosyasının yazma izinlerini kontrol ediniz."
+
+#: my-calendar-styles.php:66
+msgid "Stylesheet reset to default."
+msgstr "Stil dosyası varsayılan olark sıfırlanmıştır."
+
+#: my-calendar-styles.php:68
+msgid "Style Settings Saved"
+msgstr "Stil Ayarları Kaydedildi"
+
+#: my-calendar-styles.php:77
+msgid "New theme selected."
+msgstr "Yeni tema seçildi."
+
+#: my-calendar-styles.php:91
+msgid "Sorry. The file you are looking for doesn't appear to exist. Please check your file name and location!"
+msgstr "Üzgünüz. Aradığınız dosya bulunamadı. Lütfen dosya adını ve konumunu kontrol ediniz."
+
+#: my-calendar-styles.php:99
+msgid "My Calendar Styles"
+msgstr "Takvim Stillerim"
+
+#: my-calendar-styles.php:103
+msgid "Calendar Style Settings"
+msgstr "Takvim Stil Ayarları"
+
+#: my-calendar-styles.php:110
+msgid "Select My Calendar Theme"
+msgstr "Takvim Teması Seç"
+
+#: my-calendar-styles.php:118
+msgid "Your Custom Stylesheets"
+msgstr "Kişisel Stil Dosyanız"
+
+#: my-calendar-styles.php:127
+msgid "Installed Stylesheets"
+msgstr "Yüklü Stil Dosyaları"
+
+#: my-calendar-styles.php:135
+msgid "Choose Style"
+msgstr "Stil Seç"
+
+#: my-calendar-styles.php:148
+msgid "My Calendar was unable to update your CSS files during the upgrade. Please check your file permissions if you wish to edit your My Calendar styles. Your previously stored styles are below. This message and these styles will be deleted from the database when you successfully update your stylesheet."
+msgstr "Takvimim eklentisi yükseltme (upgrade) sırasında CSS dosyalarınızı güncelleyemedi. Takvimim CSS dosyalarınızı düzenleyebilmek istiyorsanız, lütfen dosya erişim izinlerinizi kontrol ediniz. Daha önce saklanmış olan CSS dosyalarınız aşağıdadır. Stil dosyanızı başarılı bir şekilde güncellediğinizde, bu mesaj ve bu stillerveritabanından silinecektir."
+
+#: my-calendar-styles.php:156
+msgid "CSS Style Options"
+msgstr "CSS Stil Ayarları"
+
+#: my-calendar-styles.php:159
+msgid "Apply CSS only on these pages (comma separated page IDs)"
+msgstr "CSS'yi sadece bu sayfalarda uygula (virgülle ayrılmış sayfa ID'leri)"
+
+#: my-calendar-styles.php:162
+msgid "Reset the My Calendar stylesheet to the default"
+msgstr "Takvim Stil Dosyamı varsayılana olarak sıfırla."
+
+#: my-calendar-styles.php:162
+msgid "Disable My Calendar Stylesheet"
+msgstr "Takvim Stil Dosyasını Kullanım Dışı Yap"
+
+#: my-calendar-styles.php:165
+msgid "Edit the stylesheet for My Calendar"
+msgstr "Takvimim stil dosyasını düzenle:"
+
+#: my-calendar-styles.php:168
+#: my-calendar-behaviors.php:85
+#: my-calendar-behaviors.php:97
+#: my-calendar-behaviors.php:109
+#: my-calendar-behaviors.php:121
+msgid "Save"
+msgstr "Kaydet"
+
+#: button/generator.php:21
+#: button/generator.php:47
+msgid "My Calendar Shortcode Generator"
+msgstr "Takvimim Kısa Kod Oluşturucusu"
+
+#: button/generator.php:49
+msgid "Shortcode Atributes"
+msgstr "Kısa Kod Özellikleri"
+
+#: button/generator.php:54
+msgid "Format"
+msgstr "Format"
+
+#: button/generator.php:61
+msgid "Show Category Key"
+msgstr "Kategori Anahtarını Göster"
+
+#: button/generator.php:68
+msgid "Show Previous/Next Links"
+msgstr "Önceki/Sonraki Bağlantılarını Göster"
+
+#: button/generator.php:75
+msgid "Show Format Toggle"
+msgstr "Format İşaretleyicisini Göster"
+
+#: button/generator.php:82
+msgid "Time Segment"
+msgstr "Zaman Segmenti"
+
+#: button/generator.php:90
+msgid "Generate Shortcode"
+msgstr "Kısa kod oluştur"
+
+#: button/generator.php:100
+msgid "My Calendar: this generator isn't going to put the shortcode in your page. Sorry!"
+msgstr "Takvimim: Bu oluşturucu sayfanıza bir kısa kod eklemeyecektir. Üzgünüz!"
+
+#: my-calendar-categories.php:93
+msgid "Category added successfully"
+msgstr "Kategori başarıyla eklenmiştir."
+
+#: my-calendar-categories.php:95
+msgid "Category addition failed."
+msgstr "Kategori yüklemesi başarısız oldu."
+
+#: my-calendar-categories.php:105
+msgid "Category deleted successfully. Categories in calendar updated."
+msgstr "Kategori başarılı bir şekilde silinmiştir. Takvimdeki kategoriler güncellenmiştir."
+
+#: my-calendar-categories.php:107
+msgid "Category deleted successfully. Categories in calendar not updated."
+msgstr "Kategori başarılı bir şekilde silinmiştir. Takvimdeki kategoriler güncellenmedi."
+
+#: my-calendar-categories.php:109
+msgid "Category not deleted. Categories in calendar updated."
+msgstr "Kategori silinmedi. Takvimdeki kategoriler güncellenmiştir."
+
+#: my-calendar-categories.php:118
+msgid "Category edited successfully"
+msgstr "Kategori başarılı bir şekilde düzenlenmiştir."
+
+#: my-calendar-categories.php:143
+#: my-calendar-categories.php:168
+#: my-calendar-categories.php:185
+msgid "Add Category"
+msgstr "Kategori Ekle"
+
+#: my-calendar-categories.php:145
+#: my-calendar-categories.php:168
+msgid "Edit Category"
+msgstr "Kategori Düzenle"
+
+#: my-calendar-categories.php:152
+msgid "Category Editor"
+msgstr "Kategori Düzenleyicisi"
+
+#: my-calendar-categories.php:169
+#: my-calendar-categories.php:210
+msgid "Category Name"
+msgstr "Kategori Adı"
+
+#: my-calendar-categories.php:170
+msgid "Category Color (Hex format)"
+msgstr "Kategori Rengi (Hex formatında)"
+
+#: my-calendar-categories.php:171
+#: my-calendar-categories.php:212
+msgid "Category Icon"
+msgstr "Kategori Simgesi"
+
+#: my-calendar-categories.php:185
+#: my-calendar-locations.php:157
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: my-calendar-categories.php:198
+#: my-calendar.php:149
+msgid "Manage Categories"
+msgstr "Kategorileri Yönet"
+
+#: my-calendar-categories.php:209
+#: my-calendar-event-manager.php:671
+#: my-calendar-locations.php:183
+msgid "ID"
+msgstr "ID"
+
+#: my-calendar-categories.php:211
+msgid "Category Color"
+msgstr "Kategori Rengi"
+
+#: my-calendar-categories.php:213
+#: my-calendar-categories.php:227
+#: my-calendar-event-manager.php:736
+#: my-calendar-locations.php:185
+#: my-calendar-locations.php:197
+msgid "Edit"
+msgstr "Düzenle"
+
+#: my-calendar-categories.php:214
+#: my-calendar-categories.php:233
+#: my-calendar-event-manager.php:91
+#: my-calendar-event-manager.php:736
+#: my-calendar-locations.php:186
+#: my-calendar-locations.php:198
+msgid "Delete"
+msgstr "Sil"
+
+#: my-calendar-categories.php:230
+#: my-calendar-settings.php:270
+#: my-calendar-event-manager.php:717
+#: my-calendar-output.php:151
+msgid "N/A"
+msgstr "Yok"
+
+#: my-calendar-categories.php:233
+#: my-calendar-locations.php:198
+msgid "Are you sure you want to delete this category?"
+msgstr "Bu kategoriyi silmek istediğinizden emin misiniz?"
+
+#: my-calendar-categories.php:244
+msgid "There are no categories in the database - something has gone wrong!"
+msgstr "Veritabanında herhangi bir kategori yok - ters giden bir durum var!"
+
+#: my-calendar-widgets.php:5
+msgid "My Calendar: Today's Events"
+msgstr "Takvimim: Bugünün Etkinlikleri"
+
+#: my-calendar-widgets.php:36
+#: my-calendar-widgets.php:115
+#: my-calendar-widgets.php:453
+#: my-calendar-event-manager.php:672
+msgid "Title"
+msgstr "Başlık"
+
+#: my-calendar-widgets.php:40
+#: my-calendar-widgets.php:119
+msgid "Template"
+msgstr "Şablon"
+
+#: my-calendar-widgets.php:43
+#: my-calendar-widgets.php:125
+msgid "Add calendar URL to use this option."
+msgstr "Bu özelliği kullanabilmek için takvimin url'sini girin."
+
+#: my-calendar-widgets.php:45
+#: my-calendar-widgets.php:127
+msgid "Link widget title to calendar:"
+msgstr "Ek alan başlığından takvime bağlantı yap:"
+
+#: my-calendar-widgets.php:46
+#: my-calendar-widgets.php:128
+msgid "Not Linked"
+msgstr "Bağlantı Yok"
+
+#: my-calendar-widgets.php:47
+#: my-calendar-widgets.php:129
+msgid "Linked"
+msgstr "Bağlantı Var"
+
+#: my-calendar-widgets.php:51
+msgid "Show this text if there are no events today:"
+msgstr "Bugün herhangi bir etkinlik yoksa bu mesajı göster:"
+
+#: my-calendar-widgets.php:55
+#: my-calendar-widgets.php:155
+#: my-calendar-widgets.php:457
+msgid "Category or categories to display:"
+msgstr "Gösterilecek kategori veya kategoriler:"
+
+#: my-calendar-widgets.php:75
+msgid "My Calendar: Upcoming Events"
+msgstr "Takvimim: Gelecek Etkinlikler"
+
+#: my-calendar-widgets.php:123
+msgid "Widget Options"
+msgstr "Ek Alan Ayarları"
+
+#: my-calendar-widgets.php:134
+msgid "Display upcoming events by:"
+msgstr "Gelecek etkinlikleri şuna göre göster:"
+
+#: my-calendar-widgets.php:135
+msgid "Events (e.g. 2 past, 3 future)"
+msgstr "Etkinlikler (ör. 2 adet geçmiş, 3 adet gelecek)"
+
+#: my-calendar-widgets.php:136
+msgid "Dates (e.g. 4 days past, 5 forward)"
+msgstr "Tarihler (ör. önceki 2 gün, sonraki 3 gün)"
+
+#: my-calendar-widgets.php:140
+msgid "Events sort order:"
+msgstr "Etkinliklerin sıralaması:"
+
+#: my-calendar-widgets.php:141
+msgid "Ascending (near to far)"
+msgstr "Artan (yakından uzağa)"
+
+#: my-calendar-widgets.php:142
+msgid "Descending (far to near)"
+msgstr "Azalan (uzaktan yakına)"
+
+#: my-calendar-widgets.php:146
+msgid "events into the future;"
+msgstr "gelecek etkinlikle;"
+
+#: my-calendar-widgets.php:147
+msgid "events from the past"
+msgstr "geçmiş etkinlikler"
+
+#: my-calendar-widgets.php:151
+msgid "Show this text if there are no events meeting your criteria:"
+msgstr "Eğer kriterlerinizi karşılayan bir etkinlik yoksa bu mesajı görüntüle:"
+
+#: my-calendar-widgets.php:423
+msgid "My Calendar: Mini Calendar"
+msgstr "Takvimim: Mini Takvim"
+
+#: my-calendar-widgets.php:435
+#: my-calendar-output.php:470
+#: my-calendar-output.php:475
+msgid "Calendar"
+msgstr "Takvim"
+
+#: my-calendar-widgets.php:461
+msgid "Show Next/Previous Navigation:"
+msgstr "Önceki/Sonraki Navigasyonunu Göster:"
+
+#: my-calendar-widgets.php:462
+#: my-calendar-widgets.php:468
+msgid "Yes"
+msgstr "Evet"
+
+#: my-calendar-widgets.php:463
+#: my-calendar-widgets.php:469
+msgid "No"
+msgstr "Hayır"
+
+#: my-calendar-widgets.php:467
+#: my-calendar-widgets.php:473
+msgid "Show Category Key:"
+msgstr "Kategori Anahtarını Göster:"
+
+#: my-calendar-widgets.php:474
+#: my-calendar-output.php:257
+msgid "Month"
+msgstr "Ay"
+
+#: my-calendar-widgets.php:475
+msgid "Week"
+msgstr "Hafta"
+
+#: my-calendar-settings.php:52
+msgid "Categories imported successfully."
+msgstr "Kategoriler başarılı bir şekilde içeri alınmıştır."
+
+#: my-calendar-settings.php:52
+msgid "Categories not imported."
+msgstr "Kategoriler içeri alınmadı."
+
+#: my-calendar-settings.php:53
+msgid "Events imported successfully."
+msgstr "Etkinlikler başarılı bir şekilde içeri alınmıştır."
+
+#: my-calendar-settings.php:53
+msgid "Events not imported."
+msgstr "Etkinlikler içeri alınmadı."
+
+#: my-calendar-settings.php:80
+msgid "Permissions Settings saved"
+msgstr "Takvim Yönetim Ayarları kaydedildi."
+
+#: my-calendar-settings.php:131
+msgid "Output Settings saved"
+msgstr "Görünüm Ayarları kaydedildi."
+
+#: my-calendar-settings.php:149
+msgid "Input Settings saved"
+msgstr "Giriş Ayarları kaydedildi."
+
+#: my-calendar-settings.php:165
+msgid "Custom text settings saved"
+msgstr "Takvim yazı ayarları kaydedildi."
+
+#: my-calendar-settings.php:177
+msgid "Email notice settings saved"
+msgstr "E-posta bildirim ayarları kaydedildi."
+
+#: my-calendar-settings.php:189
+msgid "User custom settings saved"
+msgstr "Kullanıcı özel ayarları kaydedildi."
+
+#: my-calendar-settings.php:216
+msgid "My Calendar Options"
+msgstr "Takvimim Ayarları"
+
+#: my-calendar-settings.php:220
+msgid "Calendar Management Settings"
+msgstr "Takvim Yönetim Ayarları"
+
+#: my-calendar-settings.php:225
+msgid "Calendar Options: Management"
+msgstr "Takvim Ayarları: Yönetim"
+
+#: my-calendar-settings.php:227
+msgid "Lowest user group that may create events"
+msgstr "Etkinlik yaratabilecek en düşük kullanıcı grubu"
+
+#: my-calendar-settings.php:228
+#: my-calendar-settings.php:237
+msgid "Subscriber"
+msgstr "Üye (Subscriber)"
+
+#: my-calendar-settings.php:229
+#: my-calendar-settings.php:238
+#: my-calendar-settings.php:246
+msgid "Contributor"
+msgstr "Katkı Sağlayan (Contributor)"
+
+#: my-calendar-settings.php:230
+#: my-calendar-settings.php:239
+#: my-calendar-settings.php:247
+#: my-calendar-event-manager.php:677
+msgid "Author"
+msgstr "Yazar (Author)"
+
+#: my-calendar-settings.php:231
+#: my-calendar-settings.php:240
+#: my-calendar-settings.php:248
+msgid "Editor"
+msgstr "Editör (Editor)"
+
+#: my-calendar-settings.php:232
+#: my-calendar-settings.php:241
+#: my-calendar-settings.php:249
+msgid "Administrator"
+msgstr "Yönetici (Administrator)"
+
+#: my-calendar-settings.php:236
+msgid "Lowest user group that may approve events"
+msgstr "Etkinlik onaylayabilecek en düşük kullanıcı grubu"
+
+#: my-calendar-settings.php:242
+msgid "Enable approval options."
+msgstr "Onaylama seçeneklerini  etkinleştir."
+
+#: my-calendar-settings.php:245
+msgid "Lowest user group that may edit or delete all events"
+msgstr "Etkinlik değiştirip silebilecek en düşük kullanıcı grubu"
+
+#: my-calendar-settings.php:251
+msgid "By default, only administrators may edit or delete any event. Other users may only edit or delete events which they authored."
+msgstr "Varsayılan olarak, sadece yöneticiler (administrators) etkinlik değiştirip silebilir. Diğer kullanıcılar sadece kendi yazdıkları yazılarda değişiklik yapabilir."
+
+#: my-calendar-settings.php:256
+msgid "Save Approval Settings"
+msgstr "Takvim Yönetim Ayarlarını Kaydet"
+
+#: my-calendar-settings.php:262
+msgid "Calendar Text Settings"
+msgstr "Takvim Yazı Ayarları"
+
+#: my-calendar-settings.php:267
+msgid "Calendar Options: Customizable Text Fields"
+msgstr "Takvim Ayarları: Özelleştirilebilir Yazı Alanları"
+
+#: my-calendar-settings.php:270
+msgid "Label for events without a set time"
+msgstr "Saati girilmemiş etkinliklerde gösterilecek saat alanı metni"
+
+#: my-calendar-settings.php:273
+msgid "Previous events link"
+msgstr "Önceki etkinlikler bağlantısı"
+
+#: my-calendar-settings.php:273
+msgid "Previous Events"
+msgstr "Önceki Etkinlikler"
+
+#: my-calendar-settings.php:276
+msgid "Next events link"
+msgstr "Sonraki etkinlikler bağlantısı"
+
+#: my-calendar-settings.php:276
+msgid "Next Events"
+msgstr "Sonraki Etkinlikler"
+
+#: my-calendar-settings.php:279
+msgid "If events are open"
+msgstr "Etkinlikler açıksa"
+
+#: my-calendar-settings.php:279
+msgid "Registration is open"
+msgstr "Kayıt açıktır"
+
+#: my-calendar-settings.php:282
+msgid "If events are closed"
+msgstr "Etkinlikler kapalıysa"
+
+#: my-calendar-settings.php:282
+msgid "Registration is closed"
+msgstr "Kayıt kapalıdır"
+
+#: my-calendar-settings.php:285
+msgid "Additional caption:"
+msgstr "Ek bilgiler:"
+
+#: my-calendar-settings.php:285
+msgid "The calendar caption is the text containing the displayed month and year in either list or calendar format. This text will be displayed following that existing text."
+msgstr "Takvim ek bilgisi, liste veya takvim formatında görünen ay ve yıl bilgisini gösteren yazıdır. Bu yazı, mevcut yazının devamında gösterilecektir."
+
+#: my-calendar-settings.php:290
+msgid "Save Custom Text Settings"
+msgstr "Takvim Yazı Ayarlarını Kaydet"
+
+#: my-calendar-settings.php:296
+msgid "Calendar Output Settings"
+msgstr "Takvim Görünüm Ayarları"
+
+#: my-calendar-settings.php:301
+msgid "Calendar Options: Customize the Output of your Calendar"
+msgstr "Takvim Seçenekleri: Takviminizin Çıktısını Özelleştirin"
+
+#: my-calendar-settings.php:304
+msgid "URI for your public calendar (required to use the {details} template tag)"
+msgstr "Herkesin görebileceği takviminiz için URI ({details} tema ayarını kullanmak için gerekli)"
+
+#: my-calendar-settings.php:308
+msgid "Event title template"
+msgstr "Etkinlik başlık şablonu"
+
+#: my-calendar-settings.php:310
+msgid "Template Help"
+msgstr "Şablon Yardımı"
+
+#: my-calendar-settings.php:310
+#: my-calendar-settings.php:461
+msgid "All template shortcodes are available."
+msgstr "Bütün şablon kısa kodları mevcuttur."
+
+#: my-calendar-settings.php:313
+msgid "In list mode, show how many months of events at a time:"
+msgstr "Liste modunda aynı anda kaç ayın etkinlikleri gösterilsin:"
+
+#: my-calendar-settings.php:316
+msgid "Date format in list mode"
+msgstr "Liste modundaki tarih formatı"
+
+#: my-calendar-settings.php:317
+msgid "Date format uses the same syntax as the <a href=\"http://php.net/date\">PHP <code>date()</code> function</a>. Save options to update sample output."
+msgstr "Tarih formatı <a href=\"http://php.net/date\">PHP <code>date()</code> function</a> deki aynı komutları kullanır. Örnek çıktıyı güncellemek için seçenekleri kaydedin."
+
+#: my-calendar-settings.php:320
+msgid "Default Sort order for Admin Events List"
+msgstr "Yönetici Etkinlikleri Listesinin Varsayılan Sıralaması"
+
+#: my-calendar-settings.php:332
+msgid "Holiday Category"
+msgstr "Tatil Kategorisi"
+
+#: my-calendar-settings.php:349
+msgid "If an event coincides with an event in the designated \"Holiday\" category, do not show the event."
+msgstr "Eğer bir etkinlik \"Holiday\" (Tatil) kategorisiyle çakışıyorsa etkinliği gösterme."
+
+#: my-calendar-settings.php:352
+msgid "Show Heading for Calendar"
+msgstr "Takvim Başlığını Göster"
+
+#: my-calendar-settings.php:355
+msgid "Show Weekends on Calendar"
+msgstr "Takvimde Hafta Sonlarını Göster"
+
+#: my-calendar-settings.php:358
+msgid "Do you want to display the author name on events?"
+msgstr "Etkinliklerde yazar ismini göstermek istiyor musunuz?"
+
+#: my-calendar-settings.php:361
+msgid "Display a jumpbox for changing month and year quickly?"
+msgstr "Ay ve yılı değiştirmek için bir kutu gösterilmesini istiyor musunuz?"
+
+#: my-calendar-settings.php:364
+msgid "Hide category icons in output"
+msgstr "Kategori simgelerini gizle"
+
+#: my-calendar-settings.php:367
+msgid "Show Link to Google Map (when sufficient address information is available.)"
+msgstr "Google Haritasına Bağlantı Göster (yeterli adres bilgisi varsa)"
+
+#: my-calendar-settings.php:370
+msgid "Show Event Address in Details"
+msgstr "Etkinlik Adresini Detaylarda Göster"
+
+#: my-calendar-settings.php:373
+msgid "Show short description field on calendar."
+msgstr "Takvimde kısa açıklama alanını göster."
+
+#: my-calendar-settings.php:376
+msgid "Show full description field on calendar."
+msgstr "Takvimde tam açıklama alanını göster."
+
+#: my-calendar-settings.php:379
+msgid "Links associated with events will automatically expire after the event has passed."
+msgstr "Etkinlikle ilişkilendirilmiş internet adresi bağlantıları, etkinlik süresinin sonunda otomatik olarak devre dışı kalacaktır."
+
+#: my-calendar-settings.php:382
+msgid "Show current availability status of events."
+msgstr "Etkinliklerin mevcut uygunluklarını durumlarında göster."
+
+#: my-calendar-settings.php:385
+msgid "Show link to My Calendar RSS feed."
+msgstr "Takvimim RSS Feed'i için bağlantı göster."
+
+#: my-calendar-settings.php:388
+msgid "Show link to iCal format download."
+msgstr "iCal formatı için indirme bağlantısı göster."
+
+#: my-calendar-settings.php:391
+msgid "If a recurring event is scheduled for a date which doesn't exist (such as the 5th Wednesday in February), move it back one week."
+msgstr "Eğer bir etkinlik için mevcut olmayan bir tarihe tekrarlanan kaydı girilirse (ör. Şubat ayının 5. Çarşambası), bir hafta geriye kaydır."
+
+#: my-calendar-settings.php:392
+msgid "If this option is unchecked, recurring events which fall on dates which don't exist will simply not be shown on the calendar."
+msgstr "Bu seçeneğin işareti kaldırıldığında, mevcut olmayan tarihlere denk gelen tekrarlanan etkinlikler takvimde gösterilmeyecektir."
+
+#: my-calendar-settings.php:395
+msgid "Default usage of category colors."
+msgstr "Kategori renklerinin varsayılan kullanımı."
+
+#: my-calendar-settings.php:396
+msgid "Apply category colors to event titles as a font color."
+msgstr "Kategori renklerini etkinlik başlıklarına yazı rengi olarak uygula."
+
+#: my-calendar-settings.php:397
+msgid "Apply category colors to event titles as a background color."
+msgstr "Kategori renklerini etkinlik başlıklarına arkaplan rengi olarak uygula."
+
+#: my-calendar-settings.php:402
+msgid "Save Output Settings"
+msgstr "Görünüm Ayarlarını Kaydet"
+
+#: my-calendar-settings.php:408
+msgid "Calendar Input Settings"
+msgstr "Takvim Giriş Ayarları"
+
+#: my-calendar-settings.php:413
+msgid "Select which input fields will be available when adding or editing events."
+msgstr "Bir etkinlik eklerken veya değiştirirken hangi girdi alanlarının mevcut olacağını seçin."
+
+#: my-calendar-settings.php:418
+msgid "Show Event Location Dropdown Menu"
+msgstr "Etkinlik Yeri Aşağı Açılan (Dropdown) Menüsünü Göster"
+
+#: my-calendar-settings.php:418
+msgid "Show Event Short Description field"
+msgstr "Etkinlik Kısa Açıklama Alanını Göster"
+
+#: my-calendar-settings.php:418
+msgid "Show Event Description Field"
+msgstr "Ektinlik Açıklama Alanını Göster"
+
+#: my-calendar-settings.php:418
+msgid "Show Event Category field"
+msgstr "Etkinlik Kategori Alanını Göster"
+
+#: my-calendar-settings.php:418
+msgid "Show Event Link field"
+msgstr "Etkinlik Bağlantı Alanını Göster"
+
+#: my-calendar-settings.php:418
+msgid "Show Event Recurrence Options"
+msgstr "Etkinlik Tekrarlama Seçeneklerini Göster"
+
+#: my-calendar-settings.php:418
+msgid "Show event registration options"
+msgstr "Etkinlik Kayıt Seçeneklerini Göster"
+
+#: my-calendar-settings.php:418
+msgid "Show event location fields"
+msgstr "Etkinlik Yeri Alanlarını Göster"
+
+#: my-calendar-settings.php:418
+msgid "Use HTML Editor in Event Description Field"
+msgstr "Etkinlik Açıklama Alanında HTML Düzenleyicisini Kullan"
+
+#: my-calendar-settings.php:431
+msgid "Administrators see all input options"
+msgstr "Yöneticiler (administrators) tüm girdi seçeneklerini görür"
+
+#: my-calendar-settings.php:436
+msgid "Save Input Settings"
+msgstr "Takvim Giriş Ayarlarını Kaydet"
+
+#: my-calendar-settings.php:442
+msgid "Calendar Email Settings"
+msgstr "Takvim E-posta Ayarları"
+
+#: my-calendar-settings.php:447
+msgid "Calendar Options: Email Notifications"
+msgstr "Takvim Seçenekleri: E-posta Bilgilendirmeleri"
+
+#: my-calendar-settings.php:451
+msgid "Send Email Notifications when new events are scheduled or reserved."
+msgstr "Yeni bir etkinlik programlanır veya rezerv edilirse e-posta bilgilendirmesi gönder."
+
+#: my-calendar-settings.php:454
+msgid "Notification messages are sent to: "
+msgstr "Bilgilendirme mesajlarını bu adrese gönder:"
+
+#: my-calendar-settings.php:457
+msgid "Email subject"
+msgstr "E-posta Konusu:"
+
+#: my-calendar-settings.php:457
+msgid "New event Added"
+msgstr "Yeni Ektkinlik Eklendi"
+
+#: my-calendar-settings.php:460
+msgid "Message Body"
+msgstr "Mesaj İçeriği"
+
+#: my-calendar-settings.php:460
+msgid "New Event:"
+msgstr "Yeni Etkinlik:"
+
+#: my-calendar-settings.php:461
+msgid "Shortcode Help"
+msgstr "Kısa Kod Yardımı"
+
+#: my-calendar-settings.php:466
+msgid "Save Email Settings"
+msgstr "E-posta Ayarlarını Kaydet"
+
+#: my-calendar-settings.php:472
+msgid "Calendar User Settings"
+msgstr "Takvim Kullanıcı Ayarları"
+
+#: my-calendar-settings.php:479
+msgid "Settings which can be configured in registered user's accounts"
+msgstr "Kayıtlı kulllanıcıların hesaplarında düzenlenebilecek ayarlar"
+
+#: my-calendar-settings.php:481
+msgid "Allow registered users to provide timezone or location presets in their user profiles."
+msgstr "Kayıtlı kullanıcılara kendi profillerinde saat dilimi veya konumlarını ayarlama izni ver."
+
+#: my-calendar-settings.php:493
+msgid "Timezone Settings"
+msgstr "Saat Dilimi Ayarları"
+
+#: my-calendar-settings.php:494
+msgid "These settings provide registered users with the ability to select a time zone in their user profile. When they view your calendar, the times for events will display the time the event happens in their time zone as well as the entered value."
+msgstr "Bu ayarlar, kayıtlı kullanıcılara kendi profillerinde saat dilimi seçme imkanı tanır. Takviminize baktıklarında, etkinlik saatlerini kendi ayarladıkları saat diliminde ve girişini yaptığınız saat diliminde göreceklerdir."
+
+#: my-calendar-settings.php:496
+msgid "Enable Timezone"
+msgstr "Saat Dilimini Etkinleştir"
+
+#: my-calendar-settings.php:499
+msgid "Select Timezone Label"
+msgstr "Saat Dilimi Etiketini Seç"
+
+#: my-calendar-settings.php:502
+msgid "Timezone Options"
+msgstr "Saat Dilimi Seçenekleri"
+
+#: my-calendar-settings.php:502
+#: my-calendar-settings.php:523
+msgid "Value, Label; one per line"
+msgstr "Değer, Etiket; her satıra bir tane gelecek şekilde"
+
+#: my-calendar-settings.php:514
+msgid "Location Settings"
+msgstr "Konum Ayarları"
+
+#: my-calendar-settings.php:515
+msgid "These settings provide registered users with the ability to select a location in their user profile. When they view your calendar, their initial view will be limited to locations which include that location parameter."
+msgstr "Bu ayarlar, kayıtlı kullanıcılara kendi profillerinde bir konum seçme imkanı tanır. Takviminize baktıklarında, ilk gördükleri ekranda seçmiş oldukları konum parametresindeki etkinlikleri göreceklerdir."
+
+#: my-calendar-settings.php:517
+msgid "Enable Location"
+msgstr "Konumu Etkinleştir"
+
+#: my-calendar-settings.php:520
+msgid "Select Location Label"
+msgstr "Konum Etikerini Seç"
+
+#: my-calendar-settings.php:523
+msgid "Location Options"
+msgstr "Konum Seçenekleri"
+
+#: my-calendar-settings.php:533
+msgid "Location Type"
+msgstr "Konum Tipi"
+
+#: my-calendar-settings.php:535
+msgid "Location Name"
+msgstr "Konum Adı"
+
+#: my-calendar-settings.php:536
+#: my-calendar-event-manager.php:550
+#: my-calendar-locations.php:127
+msgid "City"
+msgstr "Şehir"
+
+#: my-calendar-settings.php:537
+#: my-calendar-event-manager.php:550
+#: my-calendar-locations.php:127
+msgid "State/Province"
+msgstr "İlçe"
+
+#: my-calendar-settings.php:538
+#: my-calendar-event-manager.php:556
+#: my-calendar-locations.php:133
+msgid "Country"
+msgstr "Ülke"
+
+#: my-calendar-settings.php:539
+#: my-calendar-event-manager.php:550
+#: my-calendar-locations.php:127
+msgid "Postal Code"
+msgstr "Posta Kodu"
+
+#: my-calendar-settings.php:540
+#: my-calendar-event-manager.php:553
+#: my-calendar-event-manager.php:566
+#: my-calendar-locations.php:130
+#: my-calendar-locations.php:143
+msgid "Region"
+msgstr "Bölge"
+
+#: my-calendar-settings.php:546
+msgid "Save User Settings"
+msgstr "Kullanıcı Ayarlarını Kaydet"
+
+#: my-calendar-settings.php:560
+#: my-calendar-event-manager.php:13
+msgid "My Calendar has identified that you have the Calendar plugin by Kieran O'Shea installed. You can import those events and categories into the My Calendar database. Would you like to import these events?"
+msgstr "Kieran O' Shea'nin Calendar eklentisinin sisteminizde yüklü olduğu tespit edildi. Calendar eklentisindeki etkinlik ve kategorileri Takvimim Veritabanına aktarabilirsiniz. Bu etkinlik ve kategorileri içe aktarmak ister misiniz?"
+
+#: my-calendar-settings.php:567
+#: my-calendar-event-manager.php:20
+msgid "Import from Calendar"
+msgstr "Takvimden İçe Aktar"
+
+#: my-calendar-help.php:7
+msgid "How to use My Calendar"
+msgstr "Takvimim Nasıl Kullanılır?"
+
+#: my-calendar-help.php:12
+msgid "Shortcode Syntax"
+msgstr "Kısa Kod Komutları"
+
+#: my-calendar-help.php:15
+msgid "These shortcodes can be used in Posts, Pages, or in text widgets."
+msgstr "Bu kısa kodlar yazılarda, sayfalarda ve ek alanlarda kullanılabilir."
+
+#: my-calendar-help.php:18
+msgid "This basic shortcode will show the calendar on a post or page including all categories and the category key, in a traditional month-by-month format."
+msgstr "Bu basit kısa kod, bir yazı veya sayfadaki takvimi, tüm kategori ve kategori anahtarlarını dahil ederek, geleneksel aydan aya formatında gösterir."
+
+#: my-calendar-help.php:21
+msgid "The shortcode supports six attributes, <code>category</code>, <code>format</code>, <code>showkey</code>, <code>shownav</code>, <code>toggle</code>, and <code>time</code>. There two alternate options for <code>format</code>: <code>list</code>, which will show the calendar in a list format, skipping dates without any events, and <code>mini</code>, which will display the calendar in a form more suitable to being displayed in smaller spaces, such as the sidebar. The <code>category</code> attribute requires either the name of or ID number one of your event categories (the name is case-sensitive). This will show a calendar only including events in that category. Multiple categories can be specified by separating the category names or IDs using either the pipe character (<code>|</code>) or a comma. Setting <code>showkey</code> to <code>no</code> will prevent the category key from being displayed &mdash; this can be useful with single-category output. Setting <code>shownav</code> to <code>no</code> will disable the Previous/Next links. Setting <code>toggle</code> to yes will show a link to switch between the list and grid views. The <code>time</code> shortcode switches between a weekly view and the default monthly view."
+msgstr "Kısa Kod altı özelliği destekler, <code>category</code>, <code>format</code>, <code>showkey</code>, <code>shownav</code>, <code>toggle</code>, ve <code>time</code>. <code>format</code> için iki alternatif var: <code>list</code>, bu ayar takvimi bir liste formatında, etkinlik olmayan günleri es geçerek gösterir; <code>mini</code> kodu ise takvimi daha küçük alanlarda gösterilmeye daha uygun bir formatta gösterir.<code>category</code> özelliği, etkinlik kategorilerinden birinin adını veya ID numarasını girmenizi gerektirir (kategori isminde büyük/küçük harf uyumuna dikkat ediniz). Bu sayede sadece o kategorideki etkinliklerin gösterilmesi sağlanmış olur. Birden fazla kategorinin gösterilmesi için kategori isim veya ID numaralarının \"|\" sembolü ile veya aralarına virgül konularak ayrılması gerekir.<code>showkey</code> ile <code>no</code> ayarı ise kategori anahtarının gösterilmesini engeller; bu da tek kategori gösterimleri için yararlı olur. <code>shownav</code> ile <code>no</code> ayarı, Önceki/Sonraki bağlantılarını gizler. <code>toggle</code> ayarını \"yes\" olarak ayarlayarak, takvim görüntüsünde \"Liste\" ve \"Tablo\" görünümleri arasında geçiş sağlayan bir bağlantı gösterilmesini sağlayabilirsiniz. <code>time</code> kısa kodu ise haftalık ve varsayılan aylık görünümleri arasında geçiş sağlar."
+
+#: my-calendar-help.php:24
+msgid "This shortcode displays the output of the Upcoming Events widget. The <code>before</code> and <code>after</code> attributes should be numbers; the <code>type</code> attribute can be either \"event\" or \"days\", and the <code>category</code> attribute works the same way as the category attribute on the main calendar shortcode. Templates work using the template codes listed below. <code>fallback</code> provides text in case there are no events meeting your criteria. Order provides a sort order for the events list &ndash; either ascending (<code>asc</code>) or descending (<code>desc</code>)."
+msgstr "Bu kısa kod Gelecek Etkinlikler Bileşeninin (Widget) çıktısını görüntüler. <code>before</code> ve <code>after</code> ayarları rakam olmak zorundadır; <code>type</code> ayarı \"event\" veya \"days\" olabilir. <code>category</code> ayarı da Ana Takvim Kısa Kodlarındaki kategori ayarı gibi çalışır. Temalar aşağıda listelenmiş tema kodları ile çalışır. <code>fallback</code> ayarı kriterlere uygun bir etkinlik bulunamaması durumunda gösterilecek metni verir. <code>Order</code> ise etkinlik listelerinin sıralamasını belirler, (<code>asc</code>) artan veya (<code>desc</code>) azalan gibi."
+
+#: my-calendar-help.php:27
+msgid "Predictably enough, this shortcode displays the output of the Today's Events widget, with three configurable attributes: category, template and fallback text."
+msgstr "Bu kod, kolayca tahmin edilebildiği gibi, Bugünün Etkinlikleri Bileşeninin (Widget) görünümünü belirler. Ayarlanabilir üç tane özelliği vardır: kategori, tema ve yedek metin."
+
+#: my-calendar-help.php:30
+msgid "This shortcode produces a list of event locations, either as a list of links or as a select dropdown form. The <code>show</code> attribute can either be <code>list</code> or <code>form</code>, <code>type</code> is either <code>saved</code> (to show items from your stored locations), or <code>custom</code> (to show the options configured in your user settings). <code>datatype</code> must be the type of data your limits are choosing from: <code>name</code> (business name), <code>city</code>, <code>state</code>, <code>country</code>, <code>zip</code> (postal code), or <code>region</code>."
+msgstr "Bu kısa kod, \"liste bağlantıları\" veya \"aşağı açılan menü\" şeklinde etkinliklerin konumlarını listeler.<code>show</code> ayarı <code>list</code> veya <code>form</code> olmalıdır. <code>type</code> ayarı ise <code>saved</code> (kayıtlı konumlarınızı göstermesi için) veya <code>custom</code> (kullanıcı ayarlarınızdaki ayarları göstermesi için) olmalıdır. <code>datatype</code> kısa kodu limitlerinizin seçim yaptığı veri türü olmalıdır: <code>name</code> (firma ismi), <code>city</code> (şehir), <code>state</code> (ilçe), <code>country</code> (ülke), <code>zip</code> (posta kodu), veya <code>region</code> (bölge)."
+
+#: my-calendar-help.php:33
+msgid "This shortcode produces a list of event categories, either as a list of links or as a select dropdown form. The <code>show</code> attribute can either be <code>list</code> or <code>form</code>."
+msgstr "Bu kısa kod, \"liste bağlantıları\" veya \"aşağı açılan menü\" şeklinde etkinliklerin kategorilerini listeler. <code>show</code> ayarı ya <code>list</code> ya da <code>form</code> olmalıdır."
+
+#: my-calendar-help.php:39
+msgid "Category Icons"
+msgstr "Kategori Simgeleri"
+
+#: my-calendar-help.php:42
+msgid "My Calendar is designed to manage multiple calendars. The basis for these calendars are categories; you can easily setup a calendar page which includes all categories, or you can dedicate separate pages to calendars in each category. For an example, this might be useful for you in managing the tour calendars for multiple bands; event calendars for a variety of locations, etc."
+msgstr "Takvimim, birden fazla takvim yönetebilmek için dizayn edilmiştir. Bu takvimlerin temelinde kategoriler vardır; kolay bir şekilde bütün kategorileri ihtiva eden bir takvim oluşturabileceğiniz gibi, her kategori için farklı sayfalar da oluşturabilirsiniz. Örneğin, birden fazla müzik grubu için turneler takvimini yönetebileceğiniz gibi, farklı konumlar için etkinlik takvimleri de yönetebilirsiniz.."
+
+#: my-calendar-help.php:45
+msgid "The pre-installed category icons may not be especially useful for your needs or design. I'm assuming that you're going to upload your own icons -- all you need to do is upload them to the plugin's icons folder, and they'll be available for immediate use, or place them in a folder at \"my-calendar-custom\" to avoid having them overwritten by upgrades."
+msgstr "Kurulumda gelen kategori simgeleri sizin ihtiyaçlarınız veya tasarımınıza uygun olmayabilir. Kendi simgelerinizi yüklemek istediğinizi varsayarsak, tek yapmanız gereken bu simgeleri Takvimim (my-calendar) eklentisinin içerisindeki simgeler (icons) klasörüne yüklemek. Yeni simgeleriniz hemen kullanıma hazır hale gelecektir. Alternatif olarak bu simgelerinizi \"my-calendar-custom\" içinde bir klasöre yükleyin ki, gelecek eklenti güncellemeleri kendi simgelerinizin üzerine orjinallerini yazmasın."
+
+#: my-calendar-help.php:45
+msgid "Your icons folder is:"
+msgstr "Simgelerinizin klasörü:"
+
+#: my-calendar-help.php:45
+msgid "You can alternately place icons in:"
+msgstr "Alternatif olarak simgelerinizi buraya yerleştirebilirsiniz:"
+
+#: my-calendar-help.php:53
+msgid "Custom Styles"
+msgstr "Özel Ayar Stilleri"
+
+#: my-calendar-help.php:56
+msgid "My Calendar comes with four basic stylesheets. My Calendar will retain changes to these basic stylesheets on upgrade, but if you want to add an entirely new stylesheet, you may wish to store it in the My Calendar custom styles directory."
+msgstr "Takvimim dört tane basit stil dosyası ile birlikte gelmektedir. Takvimim eklentisi güncellemeler esnasında bu stil dosyalarını koruyacaktır, ancak tamamen ayrı bir stil dosyası oluşturmak istiyorsanız, bunu Takvimim eklentisinin kişiselleştirilmiş stilleri (custom styles) klasöründe saklamayı tercih edebilirsiniz."
+
+#: my-calendar-help.php:59
+msgid "Your stylesheet directory is"
+msgstr "Stil Dosyası Dizininiz:"
+
+#: my-calendar-help.php:60
+msgid "Your custom stylesheets directory is"
+msgstr "Özel Ayar Stil Dosyası Dizininiz:"
+
+#: my-calendar-help.php:68
+msgid "Widget Templating"
+msgstr "Bileşen Teması Yapma"
+
+#: my-calendar-help.php:71
+msgid "These codes are available in calendar widgets, email notifications, and event titles."
+msgstr "Bu kodlar takvim ek alanlarında (widget), e-posta bilgilendirmelerinde ve etkinlik başlıklarında mevcuttur."
+
+#: my-calendar-help.php:75
+msgid "Displays the name of the category the event is in."
+msgstr "Etkinliğin dahil olduğu kategori ismini gösterir."
+
+#: my-calendar-help.php:78
+msgid "Displays the title of the event."
+msgstr "Etkinliğin başlığını gösterir."
+
+#: my-calendar-help.php:81
+msgid "Displays the start time for the event."
+msgstr "Etkinliğin başlama saatini gösterir."
+
+#: my-calendar-help.php:84
+msgid "Displays the start time for the event adjusted to the current user's time zone settings. Blank output if user settings are disabled or the user has not selected a preferred time zone."
+msgstr "Etkinliğin başlama saatini mevcut kullanıcının Saat Dilimi ayarına uyarlanmış olarak gösterir."
+
+#: my-calendar-help.php:87
+msgid "Displays the date on which the event begins."
+msgstr "Etkinliğin başladığı günü gösterir."
+
+#: my-calendar-help.php:90
+msgid "Displays the date on which the event ends."
+msgstr "Etkinliğin bittiği günü gösterir."
+
+#: my-calendar-help.php:93
+msgid "Displays the time at which the event ends."
+msgstr "Etkinliğin bittiği saati gösterir."
+
+#: my-calendar-help.php:96
+msgid "Displays the WordPress author who posted the event."
+msgstr "Etkinliği gönderen WordPress yazarını gösterir."
+
+#: my-calendar-help.php:99
+msgid "Displays the name of the person assigned as host for the event."
+msgstr "Etkinliğin girişini yapmış kullanıcının adını görüntüler."
+
+#: my-calendar-help.php:102
+msgid "Displays the URL provided for the event."
+msgstr "Etkinlik için verilmiş bağlantıyı gösterir."
+
+#: my-calendar-help.php:105
+msgid "Displays the description of the event."
+msgstr "Etkinliğin açıklamasını gösterir."
+
+#: my-calendar-help.php:108
+msgid "Displays title of the event as a link if a URL is present, or the title alone if no URL is available."
+msgstr "Etkinliğin başlığını, daha önce bir URL (internet adresi) bilgisi girilmişse bir bağlantı olarak görüntüler, veya URL bilgisi girilmemişse de sadece başlık olarak görüntüler."
+
+#: my-calendar-help.php:111
+msgid "Displays the name of the location of the event."
+msgstr "Etkinlik konumunun adını gösterir."
+
+#: my-calendar-help.php:114
+msgid "Displays the first line of the site address."
+msgstr "Etkinlik adresinin birinci satırını gösterir."
+
+#: my-calendar-help.php:117
+msgid "Displays the second line of the site address."
+msgstr "Etkinlik adresinin ikinci satırını gösterir."
+
+#: my-calendar-help.php:120
+msgid "Displays the city for the event."
+msgstr "Etkinlik şehrini gösterir."
+
+#: my-calendar-help.php:123
+msgid "Displays the state for the event."
+msgstr "Etkinlik ilçesini gösterir."
+
+#: my-calendar-help.php:126
+msgid "Displays the postcode for the event."
+msgstr "Etkinlik posta kodunu gösterir."
+
+#: my-calendar-help.php:129
+msgid "Displays the country for the event location."
+msgstr "Etkinlik ülkesini gösterir."
+
+#: my-calendar-help.php:132
+msgid "Displays the event address in <a href=\"http://microformats.org/wiki/hcard\">hcard</a> format."
+msgstr "Etkinlik adresini <a href=\"http://microformats.org/wiki/hcard\">hcard</a> formatında görüntüler."
+
+#: my-calendar-help.php:135
+msgid "Displays a link to a Google Map of the event, if sufficient address information is available. If not, will be empty."
+msgstr "Yeterli adres bilgisi girilmişse etkinlik için bir Google Haritaları bağlantısı gösterir. Yoksa, boş kalır."
+
+#: my-calendar-help.php:138
+msgid "Displays text indicating whether registration for the event is currently open or closed; displays nothing if that choice is selected in the event."
+msgstr "Etkinliğe kayıtların o an için açık olup olmadığını görüntüler; ancak eğer etkinlikte bu seçenek işaretlendiyse hiçbir şey göstermez."
+
+#: my-calendar-help.php:141
+msgid "Displays the short version of the event description."
+msgstr "Etkinlik açıklamasının kısa şeklini gösterir."
+
+#: my-calendar-help.php:144
+msgid "Displays the current status of the event: either \"Published\" or \"Reserved\" - primary used in email templates."
+msgstr "Etkinlik mevcut durumunu görüntüler:  \"Yayınlanmış\" veya \"Rezerv Edildi\" - öncelikli olarak e-posta şablonlarında kullanılır."
+
+#: my-calendar-help.php:147
+msgid "Produces the address of the current event's category icon."
+msgstr "Mevcut etkinliğin kategori simgesinin adresini üretir."
+
+#: my-calendar-help.php:150
+msgid "Produces the hex code for the current event's category color."
+msgstr "Mevcut etkinliğin kategori renginin HEX kodunu üretir."
+
+#: my-calendar-help.php:159
+msgid "Helpful Information"
+msgstr "Yardımcı Bilgiler"
+
+#: my-calendar-help.php:162
+msgid "<strong>Uninstalling the plugin</strong>: Although the WordPress standard and expectation is for plug-ins to delete any custom database tables when they're uninstalled, My Calendar <em>does not do this</em>. This was a conscious decision on my part -- the data stored in your My Calendar tables is yours; with the sole exception of the \"General\" category, you added every piece of it yourself. As such, I feel it would be a major disservice to you to delete this information if you uninstall the plug-in. As a result, if you wish to get rid of the plug-in completely, you'll need to remove those tables yourself. All your My Calendar settings will be deleted, however."
+msgstr "<strong>Takvimim eklentisi kaldırma</strong>: WordPress'in standardında (ki normal durum da budur) bir eklenti kaldırıldığında, eklentinin oluşturmuş olduğu özel veritabanı tabloları silinmektedir. Ancak Takvimim eklentisi <em>bunu yapmıyor</em>. Bu benim bilinçli olarak aldığım bir karardı -- Takvimim eklentisinin veritabanı tablolarında saklanan veriler size aittir. Genel kategorisi dışındaki her bilgiyi siz girdiniz. Bundan dolayı da, eklentiyi kaldırdığınızda bu bilgileri silmek size karşı büyük bir haksızlık olacaktır diye inanıyorum. Sonuç olarak, eğer Takvimim eklentisinden tamamen kurtulmak istiyorsanız, veritabanındaki bu tabloları sizin silmeniz gerekecektir. Bütün Takvimim ayarlarınız da bununla birlikte silinecektir."
+
+#: my-calendar-core.php:27
+#: my-calendar.php:151
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: my-calendar-core.php:28
+#: my-calendar.php:154
+msgid "Help"
+msgstr "Yardım"
+
+#: my-calendar-core.php:742
+msgid "You're currently allowing to subscribers to post events, but aren't using Akismet. My Calendar can use Akismet to check for spam in event submissions. <a href='https://akismet.com/signup/'>Get an Akismet API Key now.</a>"
+msgstr "Üyelerinize (subscribers) etkinlik gönderme/ekleme izni verdiğiniz halde \"Akismet\" eklentisini kullanmıyorsunuz. Takvimim, etkinlik gönderileri için \"Akismet\" ile spam kontrolü yapabilmektedir. <a href='https://akismet.com/signup/'>Akismet API Anahtarınızı (Key) şimdi alın.</a>"
+
+#: my-calendar-behaviors.php:42
+msgid "Behavior Settings saved"
+msgstr "Davranış Ayarlarınız kaydedildi."
+
+#: my-calendar-behaviors.php:65
+msgid "My Calendar Behaviors"
+msgstr "Takvimim Davranışları"
+
+#: my-calendar-behaviors.php:69
+msgid "Calendar Behavior Settings"
+msgstr "Takvim Davranış Ayarları"
+
+#: my-calendar-behaviors.php:74
+msgid "Apply JavaScript only on these pages (comma separated page IDs)"
+msgstr "JavaScript'i sadece bu sayfalarda uygula (virgülle ayrılmış sayfa ID'leri)"
+
+#: my-calendar-behaviors.php:77
+msgid "Calendar Behaviors: Calendar View"
+msgstr "Takvim Davranışları: Takvim Görünümü"
+
+#: my-calendar-behaviors.php:79
+msgid "Reset the My Calendar Calendar Javascript"
+msgstr "Takvimim eklentisinin takvim Javascript'ini sıfırla."
+
+#: my-calendar-behaviors.php:79
+msgid "Disable Calendar Javascript Effects"
+msgstr "Takvim Javascript efektlerini kullanma."
+
+#: my-calendar-behaviors.php:82
+msgid "Edit the jQuery scripts for My Calendar in Calendar format"
+msgstr "Takvimim eklentisinin takvim formatı için jQuery script'ini düzenle:"
+
+#: my-calendar-behaviors.php:89
+msgid "Calendar Behaviors: List View"
+msgstr "Takvim Davranışları: Liste Görünümü"
+
+#: my-calendar-behaviors.php:91
+msgid "Reset the My Calendar List Javascript"
+msgstr "Takvimim eklentisinin liste Javascript'ini sıfırla."
+
+#: my-calendar-behaviors.php:91
+msgid "Disable List Javascript Effects"
+msgstr "Liste Javascript efektlerini kullanma."
+
+#: my-calendar-behaviors.php:94
+msgid "Edit the jQuery scripts for My Calendar in List format"
+msgstr "Takvimim eklentisinin liste formatı için jQuery script'ini düzenle:"
+
+#: my-calendar-behaviors.php:101
+msgid "Calendar Behaviors: Mini Calendar View"
+msgstr "Takvim Davranışları: Mini Takvim Görünümü"
+
+#: my-calendar-behaviors.php:103
+msgid "Reset the My Calendar Mini Format Javascript"
+msgstr "Takvimim eklentisinin Mini Takvim Javascript'ini sıfırla."
+
+#: my-calendar-behaviors.php:103
+msgid "Disable Mini Javascript Effects"
+msgstr "Mini Takvim Javascript efektlerini kullanma."
+
+#: my-calendar-behaviors.php:106
+msgid "Edit the jQuery scripts for My Calendar in Mini Calendar format"
+msgstr "Takvimim eklentisinin Mini Takvim formatı için jQuery script'ini düzenle:"
+
+#: my-calendar-behaviors.php:113
+msgid "Calendar Behaviors: AJAX Navigation"
+msgstr "Takvim Davranışları: AJAX Navigasyonu"
+
+#: my-calendar-behaviors.php:115
+msgid "Reset the My Calendar AJAX Javascript"
+msgstr "Takvimim AJAX Javascript'ini sıfırla"
+
+#: my-calendar-behaviors.php:115
+msgid "Disable AJAX Effects"
+msgstr "AJAX Efektlerini devre dışı bırak"
+
+#: my-calendar-behaviors.php:118
+msgid "Edit the jQuery scripts for My Calendar AJAX navigation"
+msgstr "Takvimim eklentisinin AJAX navigasyonu için jQuery script'lerini düzenle:"
+
+#: my-calendar-upgrade-db.php:21
+#: my-calendar-upgrade-db.php:29
+msgid "The My Calendar database needs to be updated."
+msgstr "Takvimim veritabanının güncellenmesi gerekmektedir."
+
+#: my-calendar-upgrade-db.php:22
+#: my-calendar-upgrade-db.php:43
+msgid "Update now"
+msgstr "Şimdi güncelle."
+
+#: my-calendar-upgrade-db.php:29
+msgid "Upgrade now."
+msgstr "Şimdi sürüm yükselt."
+
+#: my-calendar-upgrade-db.php:42
+msgid "You haven't entered any events, so My Calendar can't tell whether your database is up to date. If you can't add events, upgrade your database!"
+msgstr "Herhangi bir etkinlik girişi yapmadınız. Bundan dolayı da Takvimim eklentisi veritabanınızın güncelliğini kontrol edememektedir. Eğer herhangi bir etkinlik ekleyemiyorsanız, veritabanınızın sürümünü yükseltin."
+
+#: my-calendar-upgrade-db.php:53
+msgid "My Calendar Database is updated."
+msgstr "Takvimim Veritabanı güncellenmiştir."
+
+#: my-calendar.php:111
+msgid "Buy the Beginner's Guide"
+msgstr "\"Yeni Başlayanlar Kılavuzunu\" satın alın (İngilizce)"
+
+#: my-calendar.php:112
+msgid "Get Support"
+msgstr "Yardım Al"
+
+#: my-calendar.php:113
+#: my-calendar.php:154
+msgid "My Calendar Help"
+msgstr "Takvimim Yardımı"
+
+#: my-calendar.php:114
+msgid "Make a Donation"
+msgstr "Bağışta Bulun"
+
+#. #-#-#-#-#  plugin.pot (My Calendar 1.8.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: my-calendar.php:138
+#: my-calendar.php:141
+msgid "My Calendar"
+msgstr "Takvimim"
+
+#: my-calendar.php:145
+msgid "Add/Edit Events"
+msgstr "Etkinlik Ekle/Değiştir"
+
+#: my-calendar.php:150
+#: my-calendar-locations.php:171
+msgid "Manage Locations"
+msgstr "Konumları Yönet"
+
+#: my-calendar.php:152
+msgid "Style Editor"
+msgstr "Stil Düzenleyicisi"
+
+#: my-calendar.php:153
+msgid "Behavior Editor"
+msgstr "Davranış Düzenleyicisi"
+
+#: my-calendar-templates.php:136
+msgid "Published"
+msgstr "Yayınlandı"
+
+#: my-calendar-templates.php:136
+msgid "Reserved"
+msgstr "Rezerv Edildi"
+
+#: my-calendar-templates.php:137
+msgid "details"
+msgstr "detaylar"
+
+#: my-calendar-user.php:39
+msgid "My Calendar User Settings"
+msgstr "Takvimim Kullanıcı Ayarları"
+
+#: my-calendar-event-manager.php:25
+msgid "Although it is possible that this import could fail to import your events correctly, it should not have any impact on your existing Calendar database. If you encounter any problems, <a href=\"http://www.joedolson.com/contact.php\">please contact me</a>!"
+msgstr "Bu içeri aktarmanın etkinliklerinizi düzgün bir şekilde aktaramayabilir, ancak bunun mevcut takvim veritabanınıza bir etkisi olmayacaktır. Herhangi bir problemle karşılaşırsanız lütfen <a href=\"http://www.joedolson.com/contact.php\">adresinden iletişime geçin</a>!"
+
+#: my-calendar-event-manager.php:72
+msgid "%1$d events deleted successfully out of %2$d selected"
+msgstr "%2$d etkinlik arasından seçilmiş olan %1$d adedi silinmiştir."
+
+#: my-calendar-event-manager.php:74
+#: my-calendar-event-manager.php:205
+#: my-calendar-event-manager.php:228
+#: my-calendar-event-manager.php:242
+#: my-calendar-event-manager.php:251
+#: my-calendar-event-manager.php:853
+#: my-calendar-event-manager.php:856
+#: my-calendar-event-manager.php:859
+#: my-calendar-event-manager.php:868
+#: my-calendar-event-manager.php:875
+#: my-calendar-event-manager.php:891
+#: my-calendar-event-manager.php:897
+msgid "Error"
+msgstr "Hata"
+
+#: my-calendar-event-manager.php:74
+msgid "Your events have not been deleted. Please investigate."
+msgstr "Etkinlikleriniz silinmemiştir. Lütfen araştırınız."
+
+#: my-calendar-event-manager.php:85
+msgid "Delete Event"
+msgstr "Etkinlik Sil"
+
+#: my-calendar-event-manager.php:85
+msgid "Are you sure you want to delete this event?"
+msgstr "Bu etkinliği silmek istediğinize emin misiniz?"
+
+#: my-calendar-event-manager.php:99
+msgid "You do not have permission to delete that event."
+msgstr "Bu etkinliği silmek için yetkiniz bulunmamaktadır."
+
+#: my-calendar-event-manager.php:114
+msgid "You do not have permission to approve that event."
+msgstr "Bu etkinliği onaylamak için yetkiniz bulunmamaktadır."
+
+#: my-calendar-event-manager.php:128
+msgid "You do not have permission to reject that event."
+msgstr "Bu etkinliği reddetmek için yetkiniz bulunmamaktadır."
+
+#: my-calendar-event-manager.php:159
+msgid "Edit Event"
+msgstr "Etkinlik Değiştir"
+
+#: my-calendar-event-manager.php:163
+#: my-calendar-event-manager.php:174
+msgid "You must provide an event id in order to edit it"
+msgstr "Bir etkinliği değiştirmek için bir etkinlik id'si sunmanız gerekmektedir."
+
+#: my-calendar-event-manager.php:170
+msgid "Copy Event"
+msgstr "Etkinlik Kopyala"
+
+#: my-calendar-event-manager.php:182
+msgid "Add Event"
+msgstr "Etkinlik Ekle"
+
+#: my-calendar-event-manager.php:205
+msgid "I'm sorry! I couldn't add that event to the database."
+msgstr "Üzgünüm! Bu etkinliği veritabanına ekleyemedim."
+
+#: my-calendar-event-manager.php:211
+msgid "Event added. It will now show in your calendar."
+msgstr "Etkinlik eklendi. Artık takviminizde görünecektir."
+
+#: my-calendar-event-manager.php:228
+msgid "Your event was not updated."
+msgstr "Etkinliğiniz güncellenmedi."
+
+#: my-calendar-event-manager.php:230
+msgid "Nothing was changed in that update."
+msgstr "Bu güncellemede hiçbir şey değişmemiş."
+
+#: my-calendar-event-manager.php:232
+msgid "Event updated successfully"
+msgstr "Etkinlik başarılı bir şekilde güncellenmiştir."
+
+#: my-calendar-event-manager.php:235
+msgid "You do not have sufficient permissions to edit that event."
+msgstr "Bu etkinliği değiştirmek için yeterli yetkiniz bulunmamaktadır."
+
+#: my-calendar-event-manager.php:242
+msgid "You can't delete an event if you haven't submitted an event id"
+msgstr "Bir etkinlik ID'si girmediğiniz sürece herhangi bir etkinliği silemezsiniz."
+
+#: my-calendar-event-manager.php:249
+msgid "Event deleted successfully"
+msgstr "Etkinlik başarılı bir şekilde silinmiştir."
+
+#: my-calendar-event-manager.php:251
+msgid "Despite issuing a request to delete, the event still remains in the database. Please investigate."
+msgstr "Silme talebinize rağmen, etkinlik hala veritabanında görünüyor. Lütfen araştırınız."
+
+#: my-calendar-event-manager.php:263
+msgid "Sorry! That's an invalid event key."
+msgstr "Üzgünüz! Bu geçersiz bir etkinlik anahtarıdır."
+
+#: my-calendar-event-manager.php:267
+msgid "Sorry! We couldn't find an event with that ID."
+msgstr "Üzgünüz! Bu etkinlik ID'sine sahip bir etkinlik bulamadık."
+
+#: my-calendar-event-manager.php:295
+msgid "This event must be approved in order for it to appear on the calendar."
+msgstr "Bu etkinliğin takvimde görünebilmesi için onaylanması gerekmektedir."
+
+#: my-calendar-event-manager.php:304
+msgid "Save Event"
+msgstr "Etkinliği Kaydet"
+
+#: my-calendar-event-manager.php:328
+msgid "Enter your Event Information"
+msgstr "Etkinlik Bilginizi Giriniz"
+
+#: my-calendar-event-manager.php:330
+msgid "Event Title"
+msgstr "Etkinlik Başlığı "
+
+#: my-calendar-event-manager.php:330
+#: my-calendar-event-manager.php:427
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: my-calendar-event-manager.php:334
+msgid "Publish"
+msgstr "Yayınla"
+
+#: my-calendar-event-manager.php:334
+msgid "You must approve this event to promote it to the calendar."
+msgstr "Bu etkinliğin takvimde görünebilmesi için onaylamanız gerekmektedir."
+
+#: my-calendar-event-manager.php:336
+msgid "An administrator must approve your new event."
+msgstr "Yeni etkinliğinizi bir yöneticinin onaylaması gerekmektedir."
+
+#: my-calendar-event-manager.php:349
+msgid "Event Description (<abbr title=\"hypertext markup language\">HTML</abbr> allowed)"
+msgstr "Etkinlik Açıklaması (<abbr title=\"hypertext markup language\">HTML</abbr> kullanılabilir)"
+
+#: my-calendar-event-manager.php:361
+msgid "Event Short Description (<abbr title=\"hypertext markup language\">HTML</abbr> allowed)"
+msgstr "Etkinlik Kısa Açıklaması (<abbr title=\"hypertext markup language\">HTML</abbr> kullanılabilir)"
+
+#: my-calendar-event-manager.php:372
+msgid "Event Host"
+msgstr "Etkinliği Giren Kullanıcı"
+
+#: my-calendar-event-manager.php:391
+msgid "Event Category"
+msgstr "Etkinlik Kategorisi"
+
+#: my-calendar-event-manager.php:416
+msgid "Event Link (Optional)"
+msgstr "Etkinlik için internet adresi bağlantısı (isteğe bağlı)"
+
+#: my-calendar-event-manager.php:416
+msgid "This link will expire when the event passes."
+msgstr "Bu bağlantı, etkinlik süresi geçtiğinde geçersiz kalacaktır."
+
+#: my-calendar-event-manager.php:424
+msgid "Event Date and Time"
+msgstr "Etkinlik Tarih ve Saati"
+
+#: my-calendar-event-manager.php:426
+msgid "Enter the beginning and ending information for the first occurrence of this event."
+msgstr "Bu etkinliğin ilk gerçekleşme zamanının başlangıç ve bitiş bilgilerini giriniz."
+
+#: my-calendar-event-manager.php:427
+msgid "Start Date (YYYY-MM-DD)"
+msgstr "Başlama Tarihi (YYYY-AA-GG)"
+
+#: my-calendar-event-manager.php:427
+msgid "Time (hh:mm am/pm)"
+msgstr "Saat (ss:dd am/pm)  (\"am\": 00:01-12:00 arası, \"pm\": 12:01-00:00 arası)"
+
+#: my-calendar-event-manager.php:436
+msgid "End Date (YYYY-MM-DD)"
+msgstr "Bitiş Tarihi (YYYY-AA-GG)"
+
+#: my-calendar-event-manager.php:436
+msgid "End Time (hh:mm am/pm)"
+msgstr "Bitiş Saati (ss:dd am/pm)  (\"am\": 00:01-12:00 arası, \"pm\": 12:01-00:00 arası)"
+
+#: my-calendar-event-manager.php:444
+msgid "Current time difference from GMT is "
+msgstr "GMT'den mevcut saat farkı:"
+
+#: my-calendar-event-manager.php:444
+msgid " hour(s)"
+msgstr "saat(ler)"
+
+#: my-calendar-event-manager.php:453
+msgid "Recurring Events"
+msgstr "Tekrarlanan Etkinlikler"
+
+#: my-calendar-event-manager.php:456
+msgid "Repeats for"
+msgstr "Tekrarlanma sayısı"
+
+#: my-calendar-event-manager.php:457
+msgid "Units"
+msgstr "Tekrar Şekli"
+
+#: my-calendar-event-manager.php:458
+msgid "Does not recur"
+msgstr "Tekrar etmez"
+
+#: my-calendar-event-manager.php:459
+#: my-calendar-event-manager.php:710
+msgid "Daily"
+msgstr "Günlük"
+
+#: my-calendar-event-manager.php:460
+#: my-calendar-event-manager.php:711
+msgid "Weekly"
+msgstr "Haftalık"
+
+#: my-calendar-event-manager.php:461
+msgid "Bi-weekly"
+msgstr "İki haftada bir"
+
+#: my-calendar-event-manager.php:462
+msgid "Date of Month (e.g., the 24th of each month)"
+msgstr "Ayın Belli Bir Tarihi (ör. her ayın 24. günü)"
+
+#: my-calendar-event-manager.php:463
+msgid "Day of Month (e.g., the 3rd Monday of each month)"
+msgstr "Ayın Belli Bir Günü (ör. her ayın 3. Pazartesi günü)"
+
+#: my-calendar-event-manager.php:464
+msgid "Annually"
+msgstr "Yıllık"
+
+#: my-calendar-event-manager.php:466
+msgid "Enter \"0\" if the event should recur indefinitely. Your entry is the number of events after the first occurrence of the event: a recurrence of <em>2</em> means the event will happen three times."
+msgstr "Etkinlik tekrarının sonsuza kadar devam etmesi için lütfen \"0\" giriniz. Girdiğiniz değer, etkinliğin ilk gerçekleşmesinden sonra kaç kere daha tekrarlanacağını ifade eder: Tekrar sayısının <em>2</em> olması, etkinliğin toplam üç kere gerçekleşeceğini belirtir."
+
+#: my-calendar-event-manager.php:483
+msgid "Event Registration Status"
+msgstr "Etkinlik Kayıt Durumu"
+
+#: my-calendar-event-manager.php:484
+msgid "My Calendar does not manage event registrations. Use this for information only."
+msgstr "Takvimim eklentisi, etkinlik kayıtlarını yönetmez. Bunu sadece bilgi için kullanınız."
+
+#: my-calendar-event-manager.php:486
+msgid "Open"
+msgstr "Açık"
+
+#: my-calendar-event-manager.php:487
+msgid "Closed"
+msgstr "Kapalı"
+
+#: my-calendar-event-manager.php:488
+msgid "Does not apply"
+msgstr "Uygulanmaz"
+
+#: my-calendar-event-manager.php:491
+msgid "If this event recurs, it can only be registered for as a complete series."
+msgstr "Bu etkinlik tekrar ediyorsa, sadece tüm seri için kayıt yapılabilir."
+
+#: my-calendar-event-manager.php:508
+#: my-calendar-locations.php:113
+msgid "Event Location"
+msgstr "Etkinlik Konumu"
+
+#: my-calendar-event-manager.php:515
+msgid "Choose a preset location:"
+msgstr "Mevcut bir konum seçiniz:"
+
+#: my-calendar-event-manager.php:529
+msgid "Add recurring locations for later use."
+msgstr "Tekrar eden konumları ileriki kullanımlar için ekle."
+
+#: my-calendar-event-manager.php:538
+#: my-calendar-locations.php:115
+msgid "All location fields are optional: <em>insufficient information may result in an inaccurate map</em>."
+msgstr "Bütün konum alanları isteğe bağlıdır: <em>yetersiz bilgi doğru sonuç vermeyen harita gösterimlerine sebep olabilir</em>."
+
+#: my-calendar-event-manager.php:541
+#: my-calendar-locations.php:118
+msgid "Name of Location (e.g. <em>Joe's Bar and Grill</em>)"
+msgstr "Konum İsmi (ör. <em>Dernek Merkezi</em>)"
+
+#: my-calendar-event-manager.php:544
+#: my-calendar-locations.php:121
+msgid "Street Address"
+msgstr "Adres Satırı"
+
+#: my-calendar-event-manager.php:547
+#: my-calendar-locations.php:124
+msgid "Street Address (2)"
+msgstr "Adres Satırı (2)"
+
+#: my-calendar-event-manager.php:559
+#: my-calendar-locations.php:136
+msgid "Initial Zoom"
+msgstr "İlk Harita Seviyesi"
+
+#: my-calendar-event-manager.php:561
+#: my-calendar-locations.php:138
+msgid "Neighborhood"
+msgstr "Mahalle"
+
+#: my-calendar-event-manager.php:562
+#: my-calendar-locations.php:139
+msgid "Small City"
+msgstr "Küçük Şehir"
+
+#: my-calendar-event-manager.php:563
+#: my-calendar-locations.php:140
+msgid "Large City"
+msgstr "Büyük Şehir"
+
+#: my-calendar-event-manager.php:564
+#: my-calendar-locations.php:141
+msgid "Greater Metro Area"
+msgstr "Geniş Alan"
+
+#: my-calendar-event-manager.php:565
+#: my-calendar-locations.php:142
+msgid "State"
+msgstr "İlçe"
+
+#: my-calendar-event-manager.php:570
+#: my-calendar-locations.php:147
+msgid "GPS Coordinates (optional)"
+msgstr "GPS (Uydu Konumlandırma Sistemi) Koordinatları (isteğe bağlı)"
+
+#: my-calendar-event-manager.php:572
+msgid "If you supply GPS coordinates for your location, they will be used in place of any other address information to provide your map link."
+msgstr "Eğer bir GPS koordinatı tanımladıysanız, bu koordinatlar, girilmiş bütün diğer adres bilgilerinin yerine kullanılır."
+
+#: my-calendar-event-manager.php:575
+#: my-calendar-locations.php:152
+msgid "Latitude"
+msgstr "Enlem"
+
+#: my-calendar-event-manager.php:575
+#: my-calendar-locations.php:153
+msgid "Longitude"
+msgstr "Boylam"
+
+#: my-calendar-event-manager.php:653
+msgid "Manage Events"
+msgstr "Etkinlikleri Yönet"
+
+#: my-calendar-event-manager.php:668
+msgid "Table of Calendar Events"
+msgstr "Takvim Etkinlikleri Tablosu"
+
+#: my-calendar-event-manager.php:673
+#: my-calendar-locations.php:184
+msgid "Location"
+msgstr "Konum"
+
+#: my-calendar-event-manager.php:674
+msgid "Description"
+msgstr "Açıklama"
+
+#: my-calendar-event-manager.php:675
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+#: my-calendar-event-manager.php:676
+msgid "Recurs"
+msgstr "Tekrar ediyor"
+
+#: my-calendar-event-manager.php:678
+msgid "Category"
+msgstr "Kategori"
+
+#: my-calendar-event-manager.php:679
+msgid "Edit / Delete"
+msgstr "Değiştir / Sil"
+
+#: my-calendar-event-manager.php:709
+msgid "Never"
+msgstr "Hiçbir Zaman"
+
+#: my-calendar-event-manager.php:712
+msgid "Bi-Weekly"
+msgstr "İki Haftada Bir"
+
+#: my-calendar-event-manager.php:713
+msgid "Monthly (by date)"
+msgstr "Aylık (tarihe göre)"
+
+#: my-calendar-event-manager.php:714
+msgid "Monthly (by day)"
+msgstr "Aylık (güne göre)"
+
+#: my-calendar-event-manager.php:715
+msgid "Yearly"
+msgstr "Yıllık"
+
+#: my-calendar-event-manager.php:718
+msgid "Forever"
+msgstr "Sonsuza kadar"
+
+#: my-calendar-event-manager.php:719
+msgid "Times"
+msgstr "Kere"
+
+#: my-calendar-event-manager.php:734
+msgid "Copy"
+msgstr "Kopyala"
+
+#: my-calendar-event-manager.php:737
+msgid "Not editable."
+msgstr "Düzenlemez."
+
+#: my-calendar-event-manager.php:743
+msgid "Reject"
+msgstr "Reddet"
+
+#: my-calendar-event-manager.php:745
+msgid "Approve"
+msgstr "Onayla"
+
+#: my-calendar-event-manager.php:750
+msgid "Approved"
+msgstr "Onaylandı"
+
+#: my-calendar-event-manager.php:752
+msgid "Rejected"
+msgstr "Reddedildi"
+
+#: my-calendar-event-manager.php:754
+msgid "Awaiting Approval"
+msgstr "Onay Bekliyor"
+
+#: my-calendar-event-manager.php:771
+msgid "There are no events in the database!"
+msgstr "Veritabanında hiçbir etkinlik yok!"
+
+#: my-calendar-event-manager.php:853
+msgid "Your event end date must be either after or the same as your event begin date"
+msgstr "Etkinlik bitiş tarihiniz, başlama tarihiyle ya aynı olmalıdır, ya da daha ileriki bir tarihte olmalıdır."
+
+#: my-calendar-event-manager.php:856
+msgid "Your date formatting is correct but one or more of your dates is invalid. Check for number of days in month and leap year related errors."
+msgstr "Tarih giriş formatınız doğru ancak girdiğiniz bir veya daha fazla tarih geçersizdir. Lütfen bir ayda kaç gün olduğu gibi bilgileri kontrol ederek bilgi edininiz."
+
+#: my-calendar-event-manager.php:859
+msgid "Both start and end dates must be in the format YYYY-MM-DD"
+msgstr "Hem başlama hem de bitiş tarihleri YYYY-AA-GG formatında olmalıdır."
+
+#: my-calendar-event-manager.php:868
+msgid "The time field must either be blank or be entered in the format hh:mm"
+msgstr "Saat alanı ya boş olmalıdır ya da ss:dd formatında doldurulmalıdır."
+
+#: my-calendar-event-manager.php:875
+msgid "The end time field must either be blank or be entered in the format hh:mm"
+msgstr "Bitiş Saati alanı ya boş olmalıdır ya da ss:dd formatında doldurulmalıdır."
+
+#: my-calendar-event-manager.php:891
+msgid "The event title must be between 1 and 255 characters in length."
+msgstr "Etkinlik başlığının uzunluğu 1 ile 255 karakter arasında olmalıdır."
+
+#: my-calendar-event-manager.php:897
+msgid "The repetition value must be 0 unless a type of recurrence is selected."
+msgstr "Bir tekrarlama seçeneği seçilmediği sürece tekrar değeri 0 olarak girilmelidir."
+
+#: my-calendar-locations.php:42
+msgid "Location added successfully"
+msgstr "Konum başarılı bir şekilde eklendi"
+
+#: my-calendar-locations.php:44
+msgid "Location could not be added to database"
+msgstr "Konum, veritabanına eklenemedi"
+
+#: my-calendar-locations.php:50
+msgid "Location deleted successfully"
+msgstr "Konum başarılı bir şekilde silindi"
+
+#: my-calendar-locations.php:52
+msgid "Location could not be deleted"
+msgstr "Konum silinemedi"
+
+#: my-calendar-locations.php:74
+msgid "Location could not be edited."
+msgstr "Konum düzenlenemedi."
+
+#: my-calendar-locations.php:76
+msgid "Location was not changed."
+msgstr "Konum değişmedi."
+
+#: my-calendar-locations.php:78
+msgid "Location edited successfully"
+msgstr "Konum başarılı bir şekilde düzenlendi"
+
+#: my-calendar-locations.php:90
+msgid "Add New Location"
+msgstr "Yeni Konum Ekle"
+
+#: my-calendar-locations.php:92
+msgid "Edit Location"
+msgstr "Konum Düzenle"
+
+#: my-calendar-locations.php:97
+msgid "Location Editor"
+msgstr "Konum Düzenleyicisi"
+
+#: my-calendar-locations.php:149
+msgid "If you supply GPS coordinates for your location, they will be used in place of any other address information to pinpoint your location."
+msgstr "Eğer bir GPS koordinatı tanımladıysanız, bu koordinatlar girilmiş bütün diğer adres bilgilerinin yerine tam noktanızı göstermek için kullanılır."
+
+#: my-calendar-locations.php:157
+msgid "Add Location"
+msgstr "Konum Ekle"
+
+#: my-calendar-locations.php:206
+msgid "There are no locations in the database yet!"
+msgstr "Veritabanında hiçbir konum yok!"
+
+#: my-calendar-locations.php:210
+msgid "Please note: editing or deleting locations stored for re-use will have no effect on any event previously scheduled at that location. The location database exists purely as a shorthand method to enter frequently used locations into event records."
+msgstr "Not: Tekrar kullanım için kaydedilmiş konumları sildiğinizde veya değiştirdiğinizde, o konum için daha önceden girilmiş etkinlikler üzerinde değişikliğe sebep olmaz. Konum veritabanı sadece çok kullanılan konumları elle girmek yerine kısa yoldan girmenizi sağlar."
+
+#: my-calendar-install.php:138
+msgid "My Calendar Default Timezone"
+msgstr "Takvimim Varsayılan Saat Dilimi"
+
+#: my-calendar-install.php:183
+msgid "My Calendar Default Location"
+msgstr "Takvimim Varsayılan Konumu"
+
+#: my-calendar-output.php:129
+msgid "Event Details"
+msgstr "Etkinlik Detayları"
+
+#: my-calendar-output.php:137
+msgid "Close"
+msgstr "Kapat"
+
+#: my-calendar-output.php:146
+msgid "in your time zone"
+msgstr "sizin saat diliminizde"
+
+#: my-calendar-output.php:151
+msgid "Not Applicable"
+msgstr "Uygulanamaz"
+
+#: my-calendar-output.php:164
+msgid "Posted by"
+msgstr "Gönderen: "
+
+#: my-calendar-output.php:219
+msgid "This class is part of a series. You must register for the first event in this series to attend."
+msgstr "Bu etkinlik bir etkinlik serisine aittir. Etkinliğe katılmak için serinin ilk etkinliğine kaydolmanız gerekir."
+
+#: my-calendar-output.php:224
+msgid "View full calendar"
+msgstr "Tüm takvimi göster"
+
+#: my-calendar-output.php:258
+msgid "January"
+msgstr "Ocak"
+
+#: my-calendar-output.php:259
+msgid "February"
+msgstr "Şubat"
+
+#: my-calendar-output.php:260
+msgid "March"
+msgstr "Mart"
+
+#: my-calendar-output.php:261
+msgid "April"
+msgstr "Nisan"
+
+#: my-calendar-output.php:262
+msgid "May"
+msgstr "Mayıs"
+
+#: my-calendar-output.php:263
+msgid "June"
+msgstr "Haziran"
+
+#: my-calendar-output.php:264
+msgid "July"
+msgstr "Temmuz"
+
+#: my-calendar-output.php:265
+msgid "August"
+msgstr "Ağustos"
+
+#: my-calendar-output.php:266
+msgid "September"
+msgstr "Eylül"
+
+#: my-calendar-output.php:267
+msgid "October"
+msgstr "Ekim"
+
+#: my-calendar-output.php:268
+msgid "November"
+msgstr "Kasım"
+
+#: my-calendar-output.php:269
+msgid "December"
+msgstr "Aralık"
+
+#: my-calendar-output.php:271
+msgid "Year"
+msgstr "Yıl"
+
+#: my-calendar-output.php:293
+msgid "Go"
+msgstr "Git"
+
+#: my-calendar-output.php:310
+msgid "View as Grid"
+msgstr "Tablo formatında göster"
+
+#: my-calendar-output.php:313
+msgid "View as List"
+msgstr "Liste olarak göster"
+
+#: my-calendar-output.php:334
+msgid "<abbr title=\"Sunday\">Sun</abbr>"
+msgstr "<abbr title=\"Pazar\">Paz</abbr>"
+
+#: my-calendar-output.php:335
+msgid "<abbr title=\"Monday\">Mon</abbr>"
+msgstr "<abbr title=\"Pazartesi\">Pzt</abbr>"
+
+#: my-calendar-output.php:336
+msgid "<abbr title=\"Tuesday\">Tues</abbr>"
+msgstr "<abbr title=\"Salı\">Sal</abbr>"
+
+#: my-calendar-output.php:337
+msgid "<abbr title=\"Wednesday\">Wed</abbr>"
+msgstr "<abbr title=\"Çarşamba\">Çrş</abbr>"
+
+#: my-calendar-output.php:338
+msgid "<abbr title=\"Thursday\">Thur</abbr>"
+msgstr "<abbr title=\"Perşembe\">Prş</abbr>"
+
+#: my-calendar-output.php:339
+msgid "<abbr title=\"Friday\">Fri</abbr>"
+msgstr "<abbr title=\"Cuma\">Cum</abbr>"
+
+#: my-calendar-output.php:340
+msgid "<abbr title=\"Saturday\">Sat</abbr>"
+msgstr "<abbr title=\"Cumartesi\">Cts</abbr>"
+
+#: my-calendar-output.php:345
+msgid "<abbr title=\"Sunday\">S</abbr>"
+msgstr "<abbr title=\"Pazar\">P</abbr>"
+
+#: my-calendar-output.php:346
+msgid "<abbr title=\"Monday\">M</abbr>"
+msgstr "<abbr title=\"Pazartesi\">P</abbr>"
+
+#: my-calendar-output.php:347
+msgid "<abbr title=\"Tuesday\">T</abbr>"
+msgstr "<abbr title=\"Salı\">S</abbr>"
+
+#: my-calendar-output.php:348
+msgid "<abbr title=\"Wednesday\">W</abbr>"
+msgstr "<abbr title=\"Çarşamba\">Ç</abbr>"
+
+#: my-calendar-output.php:349
+msgid "<abbr title=\"Thursday\">T</abbr>"
+msgstr "<abbr title=\"Perşembe\">P</abbr>"
+
+#: my-calendar-output.php:350
+msgid "<abbr title=\"Friday\">F</abbr>"
+msgstr "<abbr title=\"Cuma\">C</abbr>"
+
+#: my-calendar-output.php:351
+msgid "<abbr title=\"Saturday\">S</abbr>"
+msgstr "<abbr title=\"Cumartesi\">C</abbr>"
+
+#: my-calendar-output.php:450
+msgid "and"
+msgstr "ve"
+
+#: my-calendar-output.php:471
+msgid "The week's events"
+msgstr "Haftanın etkinlikleri"
+
+#: my-calendar-output.php:479
+msgid "Events in"
+msgstr "Buradaki Etkinlikler:"
+
+#: my-calendar-output.php:481
+msgid "This week's events"
+msgstr "Bu haftanın etkinlikleri"
+
+#: my-calendar-output.php:648
+msgid "There are no events scheduled during this period."
+msgstr "Bu dönem için belirlenmiş bir etkinlik bulunmamaktadır."
+
+#: my-calendar-output.php:659
+msgid "Category Key"
+msgstr "Kategori Anahtarı"
+
+#: my-calendar-output.php:695
+msgid "Subscribe by <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> ile takip edin."
+
+#: my-calendar-output.php:696
+msgid "Download as <abbr title=\"iCal Events Export\">iCal</abbr>"
+msgstr "<abbr title=\"iCal Events Export\">iCal</abbr> olarak indirin"
+
+#: my-calendar-output.php:794
+msgid "(select to include)"
+msgstr "(dahil etmek için seçiniz)"
+
+#: my-calendar-output.php:815
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: my-calendar-output.php:829
+#: my-calendar-output.php:938
+msgid "Submit"
+msgstr "Gönder"
+
+#: my-calendar-output.php:890
+msgid "Show all"
+msgstr "Hepsini göster"
+
+#: my-calendar-output.php:906
+msgid "Show events in:"
+msgstr "Buradaki etkinlikleri göster:"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.joedolson.com/articles/my-calendar/"
+msgstr "http://www.joedolson.com/articles/my-calendar/"
+
+#. Description of the plugin/theme
+msgid "Accessible WordPress event calendar plugin. Show events from multiple calendars on pages, in posts, or in widgets."
+msgstr "Erişilebilir WordPress etkinlik takvimi eklentisi. Birdon çok takvimdeki etkinlikleri sayfalarda, yazılarda veya bileşen alanlarında gösterir."
+
+#. Author of the plugin/theme
+msgid "Joseph C Dolson"
+msgstr "Joseph C Dolson"
+
+#. Author URI of the plugin/theme
+msgid "http://www.joedolson.com"
+msgstr "http://www.joedolson.com"
+
