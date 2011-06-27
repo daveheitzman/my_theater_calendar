@@ -1,4 +1,4 @@
-
+ 
 === My Calendar ===
 Contributors: joedolson, David Heitzman
 Donate link: http://www.joedolson.com/donate.php
@@ -98,7 +98,7 @@ New or updated translations are always appreciated. The translation files are in
 
 = 1.8.6 = 
 
-* Fixed bug with {details} template tag when Upcoming widgets configured as Events
+* Fixed bug with {details} template tag when upcoming widgets configured as Events
 * Location and category filters now do not display forms/lists if there isn't more than one choice.
 * Extended details link feature to main calendar output and added to output options.
 * Minor changes to time-entry jQuery plug-in to improve usability.
